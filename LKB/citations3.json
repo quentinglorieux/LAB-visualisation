@@ -22151,4 +22151,18 @@
 			}
 		]
 	}
+	,
+	"config": {
+		"parameters": 
+			{
+				"item_color": 1,
+				"curved_links": false,
+				"dark_ui": true,
+				"show_info": false,
+				"scale": 1.31,
+				"item_size_variation": 0.65,
+				"link_size_variation": 0.7,
+				"max_n_links" : 500
+			}
+		}
 }
