@@ -27410,5 +27410,15 @@
 				"strength": 57.0000
 			}
 		]
-	}
+	},
+	"config": {
+		"parameters": 
+			{
+				"item_color": 1,
+				"curved_links": false,
+				"dark_ui": true,
+				"show_info": false
+			}
+		}
 }
+
