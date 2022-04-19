@@ -27418,7 +27418,10 @@
 				"item_color": 1,
 				"curved_links": true,
 				"dark_ui": true,
-				"show_info": false
+				"show_info": false,
+				"item_size_variation": 0.82,
+				"link_size_variation": 0.6,
+				"scale": 1.15
 			}
 		}
 }
