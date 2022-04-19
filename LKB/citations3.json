@@ -8,16 +8,16 @@
 				"y": -0.6939,
 				"cluster": 2,
 				"weights": {
-					"Links": 75.0000,
-					"Total link strength": 18244.0000,
+					"Links": 74.0000,
+					"Total link strength": 18228.0000,
 					"Documents": 29.0000,
-					"Citations": 2305.0000,
-					"Norm. citations": 67.0769
+					"Norm. citations": 67.0769,
+					"Citations": 2305.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.3130,
 					"Avg. pub. year": 2012.0000,
-					"Avg. citations": 79.4828,
-					"Avg. norm. citations": 2.3130
+					"Avg. citations": 79.4828
 				}
 			},
 			{
@@ -27,16 +27,16 @@
 				"y": 0.1146,
 				"cluster": 1,
 				"weights": {
-					"Links": 92.0000,
-					"Total link strength": 11447.0000,
+					"Links": 91.0000,
+					"Total link strength": 11427.0000,
 					"Documents": 34.0000,
-					"Citations": 3034.0000,
-					"Norm. citations": 80.5599
+					"Norm. citations": 80.5599,
+					"Citations": 3034.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.3694,
 					"Avg. pub. year": 1991.5294,
-					"Avg. citations": 89.2353,
-					"Avg. norm. citations": 2.3694
+					"Avg. citations": 89.2353
 				}
 			},
 			{
@@ -46,16 +46,16 @@
 				"y": 0.3317,
 				"cluster": 1,
 				"weights": {
-					"Links": 79.0000,
-					"Total link strength": 11160.0000,
+					"Links": 78.0000,
+					"Total link strength": 11158.0000,
 					"Documents": 24.0000,
-					"Citations": 867.0000,
-					"Norm. citations": 45.8370
+					"Norm. citations": 45.8370,
+					"Citations": 867.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.9099,
 					"Avg. pub. year": 2017.1667,
-					"Avg. citations": 36.1250,
-					"Avg. norm. citations": 1.9099
+					"Avg. citations": 36.1250
 				}
 			},
 			{
@@ -65,16 +65,16 @@
 				"y": -0.3921,
 				"cluster": 4,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 78800.0000,
+					"Links": 88.0000,
+					"Total link strength": 78758.0000,
 					"Documents": 141.0000,
-					"Citations": 4659.0000,
-					"Norm. citations": 115.2938
+					"Norm. citations": 115.2938,
+					"Citations": 4659.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8177,
 					"Avg. pub. year": 1995.3759,
-					"Avg. citations": 33.0426,
-					"Avg. norm. citations": 0.8177
+					"Avg. citations": 33.0426
 				}
 			},
 			{
@@ -84,16 +84,16 @@
 				"y": -0.7519,
 				"cluster": 1,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 14763.0000,
+					"Links": 89.0000,
+					"Total link strength": 14664.0000,
 					"Documents": 24.0000,
-					"Citations": 1509.0000,
-					"Norm. citations": 31.7781
+					"Norm. citations": 31.7781,
+					"Citations": 1509.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.3241,
 					"Avg. pub. year": 2005.6667,
-					"Avg. citations": 62.8750,
-					"Avg. norm. citations": 1.3241
+					"Avg. citations": 62.8750
 				}
 			},
 			{
@@ -103,16 +103,16 @@
 				"y": 0.7040,
 				"cluster": 3,
 				"weights": {
-					"Links": 81.0000,
-					"Total link strength": 5083.0000,
+					"Links": 80.0000,
+					"Total link strength": 5075.0000,
 					"Documents": 28.0000,
-					"Citations": 1023.0000,
-					"Norm. citations": 21.8919
+					"Norm. citations": 21.8919,
+					"Citations": 1023.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7819,
 					"Avg. pub. year": 1988.1429,
-					"Avg. citations": 36.5357,
-					"Avg. norm. citations": 0.7819
+					"Avg. citations": 36.5357
 				}
 			},
 			{
@@ -122,16 +122,16 @@
 				"y": 0.6631,
 				"cluster": 3,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 13729.0000,
+					"Links": 89.0000,
+					"Total link strength": 13709.0000,
 					"Documents": 86.0000,
-					"Citations": 3112.0000,
-					"Norm. citations": 76.6350
+					"Norm. citations": 76.6350,
+					"Citations": 3112.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8911,
 					"Avg. pub. year": 1987.2209,
-					"Avg. citations": 36.1860,
-					"Avg. norm. citations": 0.8911
+					"Avg. citations": 36.1860
 				}
 			},
 			{
@@ -141,16 +141,16 @@
 				"y": -0.4132,
 				"cluster": 2,
 				"weights": {
-					"Links": 88.0000,
-					"Total link strength": 66261.0000,
+					"Links": 87.0000,
+					"Total link strength": 66256.0000,
 					"Documents": 142.0000,
-					"Citations": 4412.0000,
-					"Norm. citations": 131.3249
+					"Norm. citations": 131.3249,
+					"Citations": 4412.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9248,
 					"Avg. pub. year": 2011.0775,
-					"Avg. citations": 31.0704,
-					"Avg. norm. citations": 0.9248
+					"Avg. citations": 31.0704
 				}
 			},
 			{
@@ -160,16 +160,16 @@
 				"y": -0.9321,
 				"cluster": 2,
 				"weights": {
-					"Links": 67.0000,
-					"Total link strength": 28276.0000,
+					"Links": 66.0000,
+					"Total link strength": 28274.0000,
 					"Documents": 55.0000,
-					"Citations": 1683.0000,
-					"Norm. citations": 37.8837
+					"Norm. citations": 37.8837,
+					"Citations": 1683.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6888,
 					"Avg. pub. year": 2010.3636,
-					"Avg. citations": 30.6000,
-					"Avg. norm. citations": 0.6888
+					"Avg. citations": 30.6000
 				}
 			},
 			{
@@ -179,16 +179,16 @@
 				"y": 0.4748,
 				"cluster": 3,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 9237.0000,
+					"Links": 81.0000,
+					"Total link strength": 9232.0000,
 					"Documents": 77.0000,
-					"Citations": 2207.0000,
-					"Norm. citations": 72.0197
+					"Norm. citations": 72.0197,
+					"Citations": 2207.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9353,
 					"Avg. pub. year": 1961.3766,
-					"Avg. citations": 28.6623,
-					"Avg. norm. citations": 0.9353
+					"Avg. citations": 28.6623
 				}
 			},
 			{
@@ -198,16 +198,16 @@
 				"y": 0.7444,
 				"cluster": 5,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 115315.0000,
+					"Links": 92.0000,
+					"Total link strength": 115135.0000,
 					"Documents": 125.0000,
-					"Citations": 15689.0000,
-					"Norm. citations": 293.6514
+					"Norm. citations": 293.6514,
+					"Citations": 15689.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.3492,
 					"Avg. pub. year": 2004.5120,
-					"Avg. citations": 125.5120,
-					"Avg. norm. citations": 2.3492
+					"Avg. citations": 125.5120
 				}
 			},
 			{
@@ -217,16 +217,16 @@
 				"y": -0.4426,
 				"cluster": 4,
 				"weights": {
-					"Links": 71.0000,
-					"Total link strength": 13002.0000,
+					"Links": 70.0000,
+					"Total link strength": 12996.0000,
 					"Documents": 36.0000,
-					"Citations": 999.0000,
-					"Norm. citations": 28.6136
+					"Norm. citations": 28.6136,
+					"Citations": 999.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7948,
 					"Avg. pub. year": 1977.9167,
-					"Avg. citations": 27.7500,
-					"Avg. norm. citations": 0.7948
+					"Avg. citations": 27.7500
 				}
 			},
 			{
@@ -236,16 +236,16 @@
 				"y": -0.2369,
 				"cluster": 1,
 				"weights": {
-					"Links": 92.0000,
-					"Total link strength": 23578.0000,
+					"Links": 91.0000,
+					"Total link strength": 23550.0000,
 					"Documents": 37.0000,
-					"Citations": 2326.0000,
-					"Norm. citations": 55.8336
+					"Norm. citations": 55.8336,
+					"Citations": 2326.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.5090,
 					"Avg. pub. year": 2006.0811,
-					"Avg. citations": 62.8649,
-					"Avg. norm. citations": 1.5090
+					"Avg. citations": 62.8649
 				}
 			},
 			{
@@ -255,16 +255,16 @@
 				"y": -0.1411,
 				"cluster": 1,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 67553.0000,
+					"Links": 92.0000,
+					"Total link strength": 67477.0000,
 					"Documents": 132.0000,
-					"Citations": 11329.0000,
-					"Norm. citations": 226.3557
+					"Norm. citations": 226.3557,
+					"Citations": 11329.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.7148,
 					"Avg. pub. year": 2005.1515,
-					"Avg. citations": 85.8258,
-					"Avg. norm. citations": 1.7148
+					"Avg. citations": 85.8258
 				}
 			},
 			{
@@ -274,16 +274,16 @@
 				"y": 0.4715,
 				"cluster": 3,
 				"weights": {
-					"Links": 70.0000,
-					"Total link strength": 1935.0000,
+					"Links": 69.0000,
+					"Total link strength": 1931.0000,
 					"Documents": 28.0000,
-					"Citations": 788.0000,
-					"Norm. citations": 22.9742
+					"Norm. citations": 22.9742,
+					"Citations": 788.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8205,
 					"Avg. pub. year": 1980.5000,
-					"Avg. citations": 28.1429,
-					"Avg. norm. citations": 0.8205
+					"Avg. citations": 28.1429
 				}
 			},
 			{
@@ -293,16 +293,16 @@
 				"y": 0.2687,
 				"cluster": 1,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 23409.0000,
+					"Links": 89.0000,
+					"Total link strength": 23225.0000,
 					"Documents": 32.0000,
-					"Citations": 270.0000,
-					"Norm. citations": 14.8704
+					"Norm. citations": 14.8704,
+					"Citations": 270.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.4647,
 					"Avg. pub. year": 2017.4688,
-					"Avg. citations": 8.4375,
-					"Avg. norm. citations": 0.4647
+					"Avg. citations": 8.4375
 				}
 			},
 			{
@@ -312,16 +312,16 @@
 				"y": -0.0125,
 				"cluster": 1,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 42363.0000,
+					"Links": 92.0000,
+					"Total link strength": 42325.0000,
 					"Documents": 79.0000,
-					"Citations": 6519.0000,
-					"Norm. citations": 136.4748
+					"Norm. citations": 136.4748,
+					"Citations": 6519.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.7275,
 					"Avg. pub. year": 2010.3038,
-					"Avg. citations": 82.5190,
-					"Avg. norm. citations": 1.7275
+					"Avg. citations": 82.5190
 				}
 			},
 			{
@@ -331,16 +331,16 @@
 				"y": -0.6076,
 				"cluster": 4,
 				"weights": {
-					"Links": 85.0000,
-					"Total link strength": 31229.0000,
+					"Links": 84.0000,
+					"Total link strength": 31154.0000,
 					"Documents": 40.0000,
-					"Citations": 1413.0000,
-					"Norm. citations": 43.0554
+					"Norm. citations": 43.0554,
+					"Citations": 1413.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.0764,
 					"Avg. pub. year": 2011.1750,
-					"Avg. citations": 35.3250,
-					"Avg. norm. citations": 1.0764
+					"Avg. citations": 35.3250
 				}
 			},
 			{
@@ -353,13 +353,13 @@
 					"Links": 67.0000,
 					"Total link strength": 22710.0000,
 					"Documents": 49.0000,
-					"Citations": 1317.0000,
-					"Norm. citations": 29.7975
+					"Norm. citations": 29.7975,
+					"Citations": 1317.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6081,
 					"Avg. pub. year": 2012.5918,
-					"Avg. citations": 26.8776,
-					"Avg. norm. citations": 0.6081
+					"Avg. citations": 26.8776
 				}
 			},
 			{
@@ -369,16 +369,16 @@
 				"y": -0.0321,
 				"cluster": 3,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 58516.0000,
+					"Links": 92.0000,
+					"Total link strength": 58428.0000,
 					"Documents": 171.0000,
-					"Citations": 11845.0000,
-					"Norm. citations": 268.8782
+					"Norm. citations": 268.8782,
+					"Citations": 11845.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.5724,
 					"Avg. pub. year": 1988.3450,
-					"Avg. citations": 69.2690,
-					"Avg. norm. citations": 1.5724
+					"Avg. citations": 69.2690
 				}
 			},
 			{
@@ -388,16 +388,16 @@
 				"y": 0.1181,
 				"cluster": 2,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 14465.0000,
+					"Links": 88.0000,
+					"Total link strength": 14457.0000,
 					"Documents": 28.0000,
-					"Citations": 653.0000,
-					"Norm. citations": 13.6287
+					"Norm. citations": 13.6287,
+					"Citations": 653.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.4867,
 					"Avg. pub. year": 2003.8214,
-					"Avg. citations": 23.3214,
-					"Avg. norm. citations": 0.4867
+					"Avg. citations": 23.3214
 				}
 			},
 			{
@@ -407,16 +407,16 @@
 				"y": -0.2877,
 				"cluster": 3,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 16575.0000,
+					"Links": 92.0000,
+					"Total link strength": 16552.0000,
 					"Documents": 36.0000,
-					"Citations": 1707.0000,
-					"Norm. citations": 33.7959
+					"Norm. citations": 33.7959,
+					"Citations": 1707.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9388,
 					"Avg. pub. year": 1994.5556,
-					"Avg. citations": 47.4167,
-					"Avg. norm. citations": 0.9388
+					"Avg. citations": 47.4167
 				}
 			},
 			{
@@ -426,16 +426,16 @@
 				"y": -0.3680,
 				"cluster": 2,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 16213.0000,
+					"Links": 89.0000,
+					"Total link strength": 16198.0000,
 					"Documents": 36.0000,
-					"Citations": 874.0000,
-					"Norm. citations": 16.1516
+					"Norm. citations": 16.1516,
+					"Citations": 874.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.4487,
 					"Avg. pub. year": 1997.5278,
-					"Avg. citations": 24.2778,
-					"Avg. norm. citations": 0.4487
+					"Avg. citations": 24.2778
 				}
 			},
 			{
@@ -445,16 +445,16 @@
 				"y": -0.0956,
 				"cluster": 2,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 3649.0000,
+					"Links": 81.0000,
+					"Total link strength": 3647.0000,
 					"Documents": 62.0000,
-					"Citations": 5958.0000,
-					"Norm. citations": 136.6510
+					"Norm. citations": 136.6510,
+					"Citations": 5958.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.2040,
 					"Avg. pub. year": 2008.4032,
-					"Avg. citations": 96.0968,
-					"Avg. norm. citations": 2.2040
+					"Avg. citations": 96.0968
 				}
 			},
 			{
@@ -464,16 +464,16 @@
 				"y": 0.1188,
 				"cluster": 1,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 96321.0000,
+					"Links": 92.0000,
+					"Total link strength": 96166.0000,
 					"Documents": 162.0000,
-					"Citations": 24256.0000,
-					"Norm. citations": 512.2271
+					"Norm. citations": 512.2271,
+					"Citations": 24256.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 3.1619,
 					"Avg. pub. year": 2003.3519,
-					"Avg. citations": 149.7284,
-					"Avg. norm. citations": 3.1619
+					"Avg. citations": 149.7284
 				}
 			},
 			{
@@ -486,13 +486,13 @@
 					"Links": 78.0000,
 					"Total link strength": 18346.0000,
 					"Documents": 26.0000,
-					"Citations": 855.0000,
-					"Norm. citations": 17.8675
+					"Norm. citations": 17.8675,
+					"Citations": 855.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6872,
 					"Avg. pub. year": 2005.0769,
-					"Avg. citations": 32.8846,
-					"Avg. norm. citations": 0.6872
+					"Avg. citations": 32.8846
 				}
 			},
 			{
@@ -502,16 +502,16 @@
 				"y": 0.3961,
 				"cluster": 1,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 75404.0000,
+					"Links": 92.0000,
+					"Total link strength": 75264.0000,
 					"Documents": 200.0000,
-					"Citations": 5972.0000,
-					"Norm. citations": 157.0781
+					"Norm. citations": 157.0781,
+					"Citations": 5972.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7854,
 					"Avg. pub. year": 2003.2150,
-					"Avg. citations": 29.8600,
-					"Avg. norm. citations": 0.7854
+					"Avg. citations": 29.8600
 				}
 			},
 			{
@@ -521,16 +521,16 @@
 				"y": 0.5420,
 				"cluster": 5,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 15400.0000,
+					"Links": 88.0000,
+					"Total link strength": 15388.0000,
 					"Documents": 31.0000,
-					"Citations": 1491.0000,
-					"Norm. citations": 32.4988
+					"Norm. citations": 32.4988,
+					"Citations": 1491.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.0483,
 					"Avg. pub. year": 2013.6452,
-					"Avg. citations": 48.0968,
-					"Avg. norm. citations": 1.0483
+					"Avg. citations": 48.0968
 				}
 			},
 			{
@@ -540,16 +540,16 @@
 				"y": -0.0177,
 				"cluster": 1,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 10499.0000,
+					"Links": 88.0000,
+					"Total link strength": 10457.0000,
 					"Documents": 34.0000,
-					"Citations": 1965.0000,
-					"Norm. citations": 37.8115
+					"Norm. citations": 37.8115,
+					"Citations": 1965.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.1121,
 					"Avg. pub. year": 2003.1176,
-					"Avg. citations": 57.7941,
-					"Avg. norm. citations": 1.1121
+					"Avg. citations": 57.7941
 				}
 			},
 			{
@@ -559,16 +559,16 @@
 				"y": 0.8643,
 				"cluster": 5,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 28009.0000,
+					"Links": 81.0000,
+					"Total link strength": 27989.0000,
 					"Documents": 32.0000,
-					"Citations": 1508.0000,
-					"Norm. citations": 33.9585
+					"Norm. citations": 33.9585,
+					"Citations": 1508.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.0612,
 					"Avg. pub. year": 2012.8125,
-					"Avg. citations": 47.1250,
-					"Avg. norm. citations": 1.0612
+					"Avg. citations": 47.1250
 				}
 			},
 			{
@@ -578,16 +578,16 @@
 				"y": 0.4412,
 				"cluster": 3,
 				"weights": {
-					"Links": 87.0000,
-					"Total link strength": 8255.0000,
+					"Links": 86.0000,
+					"Total link strength": 8241.0000,
 					"Documents": 28.0000,
-					"Citations": 1294.0000,
-					"Norm. citations": 35.3767
+					"Norm. citations": 35.3767,
+					"Citations": 1294.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.2635,
 					"Avg. pub. year": 1985.7143,
-					"Avg. citations": 46.2143,
-					"Avg. norm. citations": 1.2635
+					"Avg. citations": 46.2143
 				}
 			},
 			{
@@ -597,16 +597,16 @@
 				"y": -0.0447,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 85875.0000,
+					"Links": 92.0000,
+					"Total link strength": 85832.0000,
 					"Documents": 249.0000,
-					"Citations": 7946.0000,
-					"Norm. citations": 212.4901
+					"Norm. citations": 212.4901,
+					"Citations": 7946.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8534,
 					"Avg. pub. year": 2003.1847,
-					"Avg. citations": 31.9116,
-					"Avg. norm. citations": 0.8534
+					"Avg. citations": 31.9116
 				}
 			},
 			{
@@ -616,16 +616,16 @@
 				"y": 0.3227,
 				"cluster": 1,
 				"weights": {
-					"Links": 92.0000,
-					"Total link strength": 17155.0000,
+					"Links": 91.0000,
+					"Total link strength": 17150.0000,
 					"Documents": 40.0000,
-					"Citations": 3300.0000,
-					"Norm. citations": 90.6463
+					"Norm. citations": 90.6463,
+					"Citations": 3300.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.2662,
 					"Avg. pub. year": 2013.6750,
-					"Avg. citations": 82.5000,
-					"Avg. norm. citations": 2.2662
+					"Avg. citations": 82.5000
 				}
 			},
 			{
@@ -635,16 +635,16 @@
 				"y": -0.3659,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 93660.0000,
+					"Links": 92.0000,
+					"Total link strength": 93634.0000,
 					"Documents": 226.0000,
-					"Citations": 8423.0000,
-					"Norm. citations": 209.2632
+					"Norm. citations": 209.2632,
+					"Citations": 8423.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9259,
 					"Avg. pub. year": 2002.1947,
-					"Avg. citations": 37.2699,
-					"Avg. norm. citations": 0.9259
+					"Avg. citations": 37.2699
 				}
 			},
 			{
@@ -654,16 +654,16 @@
 				"y": 0.0808,
 				"cluster": 2,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 10376.0000,
+					"Links": 90.0000,
+					"Total link strength": 10361.0000,
 					"Documents": 101.0000,
-					"Citations": 2666.0000,
-					"Norm. citations": 140.6235
+					"Norm. citations": 140.6235,
+					"Citations": 2666.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.3923,
 					"Avg. pub. year": 2016.0792,
-					"Avg. citations": 26.3960,
-					"Avg. norm. citations": 1.3923
+					"Avg. citations": 26.3960
 				}
 			},
 			{
@@ -676,13 +676,13 @@
 					"Links": 71.0000,
 					"Total link strength": 3995.0000,
 					"Documents": 26.0000,
-					"Citations": 347.0000,
-					"Norm. citations": 7.7512
+					"Norm. citations": 7.7512,
+					"Citations": 347.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.2981,
 					"Avg. pub. year": 1988.1538,
-					"Avg. citations": 13.3462,
-					"Avg. norm. citations": 0.2981
+					"Avg. citations": 13.3462
 				}
 			},
 			{
@@ -692,16 +692,16 @@
 				"y": 0.9514,
 				"cluster": 5,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 38074.0000,
+					"Links": 92.0000,
+					"Total link strength": 38027.0000,
 					"Documents": 39.0000,
-					"Citations": 2262.0000,
-					"Norm. citations": 62.6459
+					"Norm. citations": 62.6459,
+					"Citations": 2262.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.6063,
 					"Avg. pub. year": 2011.4359,
-					"Avg. citations": 58.0000,
-					"Avg. norm. citations": 1.6063
+					"Avg. citations": 58.0000
 				}
 			},
 			{
@@ -711,16 +711,16 @@
 				"y": -0.6176,
 				"cluster": 2,
 				"weights": {
-					"Links": 96.0000,
-					"Total link strength": 31471.0000,
+					"Links": 75.0000,
+					"Total link strength": 21468.0000,
 					"Documents": 55.0000,
-					"Citations": 1114.0000,
-					"Norm. citations": 82.2077
+					"Norm. citations": 82.2077,
+					"Citations": 1114.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6345,
 					"Avg. pub. year": 2018.2857,
-					"Avg. citations": 8.9714,
-					"Avg. norm. citations": 0.6345
+					"Avg. citations": 8.9714
 				}
 			},
 			{
@@ -730,16 +730,16 @@
 				"y": 0.3575,
 				"cluster": 1,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 40768.0000,
+					"Links": 92.0000,
+					"Total link strength": 40743.0000,
 					"Documents": 76.0000,
-					"Citations": 1941.0000,
-					"Norm. citations": 43.3372
+					"Norm. citations": 43.3372,
+					"Citations": 1941.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.5702,
 					"Avg. pub. year": 2008.5263,
-					"Avg. citations": 25.5395,
-					"Avg. norm. citations": 0.5702
+					"Avg. citations": 25.5395
 				}
 			},
 			{
@@ -749,16 +749,16 @@
 				"y": -0.4095,
 				"cluster": 3,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 50146.0000,
+					"Links": 92.0000,
+					"Total link strength": 50118.0000,
 					"Documents": 177.0000,
-					"Citations": 5520.0000,
-					"Norm. citations": 123.1867
+					"Norm. citations": 123.1867,
+					"Citations": 5520.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6960,
 					"Avg. pub. year": 1988.9153,
-					"Avg. citations": 31.1864,
-					"Avg. norm. citations": 0.6960
+					"Avg. citations": 31.1864
 				}
 			},
 			{
@@ -768,16 +768,16 @@
 				"y": -0.5234,
 				"cluster": 4,
 				"weights": {
-					"Links": 80.0000,
-					"Total link strength": 28511.0000,
+					"Links": 79.0000,
+					"Total link strength": 28438.0000,
 					"Documents": 35.0000,
-					"Citations": 1264.0000,
-					"Norm. citations": 38.5314
+					"Norm. citations": 38.5314,
+					"Citations": 1264.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.1009,
 					"Avg. pub. year": 2011.3429,
-					"Avg. citations": 36.1143,
-					"Avg. norm. citations": 1.1009
+					"Avg. citations": 36.1143
 				}
 			},
 			{
@@ -787,35 +787,35 @@
 				"y": 0.2597,
 				"cluster": 5,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 15200.0000,
+					"Links": 90.0000,
+					"Total link strength": 15170.0000,
 					"Documents": 25.0000,
-					"Citations": 1111.0000,
-					"Norm. citations": 31.2432
+					"Norm. citations": 31.2432,
+					"Citations": 1111.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.2497,
 					"Avg. pub. year": 2014.0400,
-					"Avg. citations": 44.4400,
-					"Avg. norm. citations": 1.2497
+					"Avg. citations": 44.4400
 				}
 			},
 			{
 				"id": 2041,
 				"label": "guerout, r",
 				"x": -0.0986,
-				"y": -0.8274,
+				"y": -0.9274,
 				"cluster": 6,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 22723.0000,
+					"Links": 81.0000,
+					"Total link strength": 20744.0000,
 					"Documents": 41.0000,
-					"Citations": 659.0000,
-					"Norm. citations": 25.4240
+					"Norm. citations": 25.4240,
+					"Citations": 659.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6201,
 					"Avg. pub. year": 2015.0244,
-					"Avg. citations": 16.0732,
-					"Avg. norm. citations": 0.6201
+					"Avg. citations": 16.0732
 				}
 			},
 			{
@@ -825,16 +825,16 @@
 				"y": 0.1115,
 				"cluster": 1,
 				"weights": {
-					"Links": 88.0000,
-					"Total link strength": 11963.0000,
+					"Links": 87.0000,
+					"Total link strength": 11926.0000,
 					"Documents": 33.0000,
-					"Citations": 1138.0000,
-					"Norm. citations": 21.1045
+					"Norm. citations": 21.1045,
+					"Citations": 1138.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6395,
 					"Avg. pub. year": 2004.0303,
-					"Avg. citations": 34.4848,
-					"Avg. norm. citations": 0.6395
+					"Avg. citations": 34.4848
 				}
 			},
 			{
@@ -844,16 +844,16 @@
 				"y": 0.6599,
 				"cluster": 5,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 6685.0000,
+					"Links": 89.0000,
+					"Total link strength": 6658.0000,
 					"Documents": 34.0000,
-					"Citations": 1840.0000,
-					"Norm. citations": 36.8370
+					"Norm. citations": 36.8370,
+					"Citations": 1840.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.0834,
 					"Avg. pub. year": 1999.5882,
-					"Avg. citations": 54.1176,
-					"Avg. norm. citations": 1.0834
+					"Avg. citations": 54.1176
 				}
 			},
 			{
@@ -863,16 +863,16 @@
 				"y": 0.4319,
 				"cluster": 5,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 154285.0000,
+					"Links": 92.0000,
+					"Total link strength": 154002.0000,
 					"Documents": 245.0000,
-					"Citations": 24667.0000,
-					"Norm. citations": 500.4191
+					"Norm. citations": 500.4191,
+					"Citations": 24667.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.0425,
 					"Avg. pub. year": 1994.6245,
-					"Avg. citations": 100.6816,
-					"Avg. norm. citations": 2.0425
+					"Avg. citations": 100.6816
 				}
 			},
 			{
@@ -882,16 +882,16 @@
 				"y": -0.7220,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 55272.0000,
+					"Links": 92.0000,
+					"Total link strength": 55258.0000,
 					"Documents": 106.0000,
-					"Citations": 4298.0000,
-					"Norm. citations": 91.6830
+					"Norm. citations": 91.6830,
+					"Citations": 4298.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8649,
 					"Avg. pub. year": 2002.3208,
-					"Avg. citations": 40.5472,
-					"Avg. norm. citations": 0.8649
+					"Avg. citations": 40.5472
 				}
 			},
 			{
@@ -901,16 +901,16 @@
 				"y": -0.1932,
 				"cluster": 2,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 6595.0000,
+					"Links": 81.0000,
+					"Total link strength": 6591.0000,
 					"Documents": 21.0000,
-					"Citations": 1052.0000,
-					"Norm. citations": 19.7679
+					"Norm. citations": 19.7679,
+					"Citations": 1052.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9413,
 					"Avg. pub. year": 2002.1905,
-					"Avg. citations": 50.0952,
-					"Avg. norm. citations": 0.9413
+					"Avg. citations": 50.0952
 				}
 			},
 			{
@@ -920,16 +920,16 @@
 				"y": -0.1671,
 				"cluster": 4,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 31309.0000,
+					"Links": 92.0000,
+					"Total link strength": 31297.0000,
 					"Documents": 66.0000,
-					"Citations": 1857.0000,
-					"Norm. citations": 49.6407
+					"Norm. citations": 49.6407,
+					"Citations": 1857.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7521,
 					"Avg. pub. year": 2006.5606,
-					"Avg. citations": 28.1364,
-					"Avg. norm. citations": 0.7521
+					"Avg. citations": 28.1364
 				}
 			},
 			{
@@ -939,16 +939,16 @@
 				"y": 0.1173,
 				"cluster": 4,
 				"weights": {
-					"Links": 88.0000,
-					"Total link strength": 74135.0000,
+					"Links": 87.0000,
+					"Total link strength": 73959.0000,
 					"Documents": 374.0000,
-					"Citations": 9100.0000,
-					"Norm. citations": 234.8756
+					"Norm. citations": 234.8756,
+					"Citations": 9100.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6280,
 					"Avg. pub. year": 2004.6818,
-					"Avg. citations": 24.3316,
-					"Avg. norm. citations": 0.6280
+					"Avg. citations": 24.3316
 				}
 			},
 			{
@@ -958,16 +958,16 @@
 				"y": 0.7731,
 				"cluster": 3,
 				"weights": {
-					"Links": 88.0000,
-					"Total link strength": 8377.0000,
+					"Links": 87.0000,
+					"Total link strength": 8369.0000,
 					"Documents": 38.0000,
-					"Citations": 345.0000,
-					"Norm. citations": 7.5946
+					"Norm. citations": 7.5946,
+					"Citations": 345.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.1999,
 					"Avg. pub. year": 1999.0000,
-					"Avg. citations": 9.0789,
-					"Avg. norm. citations": 0.1999
+					"Avg. citations": 9.0789
 				}
 			},
 			{
@@ -977,16 +977,16 @@
 				"y": -0.1097,
 				"cluster": 4,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 57336.0000,
+					"Links": 88.0000,
+					"Total link strength": 57313.0000,
 					"Documents": 83.0000,
-					"Citations": 2258.0000,
-					"Norm. citations": 54.2253
+					"Norm. citations": 54.2253,
+					"Citations": 2258.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6533,
 					"Avg. pub. year": 1998.6506,
-					"Avg. citations": 27.2048,
-					"Avg. norm. citations": 0.6533
+					"Avg. citations": 27.2048
 				}
 			},
 			{
@@ -996,16 +996,16 @@
 				"y": 0.1847,
 				"cluster": 1,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 17444.0000,
+					"Links": 90.0000,
+					"Total link strength": 17410.0000,
 					"Documents": 27.0000,
-					"Citations": 1843.0000,
-					"Norm. citations": 42.4705
+					"Norm. citations": 42.4705,
+					"Citations": 1843.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.5730,
 					"Avg. pub. year": 2001.6667,
-					"Avg. citations": 68.2593,
-					"Avg. norm. citations": 1.5730
+					"Avg. citations": 68.2593
 				}
 			},
 			{
@@ -1015,16 +1015,16 @@
 				"y": -0.3098,
 				"cluster": 4,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 16733.0000,
+					"Links": 90.0000,
+					"Total link strength": 16728.0000,
 					"Documents": 49.0000,
-					"Citations": 1252.0000,
-					"Norm. citations": 46.8869
+					"Norm. citations": 46.8869,
+					"Citations": 1252.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9569,
 					"Avg. pub. year": 2013.9388,
-					"Avg. citations": 25.5510,
-					"Avg. norm. citations": 0.9569
+					"Avg. citations": 25.5510
 				}
 			},
 			{
@@ -1034,16 +1034,16 @@
 				"y": 0.3618,
 				"cluster": 3,
 				"weights": {
-					"Links": 85.0000,
-					"Total link strength": 11014.0000,
+					"Links": 84.0000,
+					"Total link strength": 11000.0000,
 					"Documents": 179.0000,
-					"Citations": 3036.0000,
-					"Norm. citations": 123.7704
+					"Norm. citations": 123.7704,
+					"Citations": 3036.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6915,
 					"Avg. pub. year": 1974.5866,
-					"Avg. citations": 16.9609,
-					"Avg. norm. citations": 0.6915
+					"Avg. citations": 16.9609
 				}
 			},
 			{
@@ -1053,16 +1053,16 @@
 				"y": 0.5478,
 				"cluster": 3,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 73142.0000,
+					"Links": 92.0000,
+					"Total link strength": 73018.0000,
 					"Documents": 200.0000,
-					"Citations": 3841.0000,
-					"Norm. citations": 97.5624
+					"Norm. citations": 97.5624,
+					"Citations": 3841.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.4878,
 					"Avg. pub. year": 1996.4550,
-					"Avg. citations": 19.2050,
-					"Avg. norm. citations": 0.4878
+					"Avg. citations": 19.2050
 				}
 			},
 			{
@@ -1072,16 +1072,16 @@
 				"y": -0.7765,
 				"cluster": 6,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 72154.0000,
+					"Links": 92.0000,
+					"Total link strength": 67507.0000,
 					"Documents": 137.0000,
-					"Citations": 3900.0000,
-					"Norm. citations": 83.7061
+					"Norm. citations": 83.7061,
+					"Citations": 3900.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6110,
 					"Avg. pub. year": 2007.9781,
-					"Avg. citations": 28.4672,
-					"Avg. norm. citations": 0.6110
+					"Avg. citations": 28.4672
 				}
 			},
 			{
@@ -1091,16 +1091,16 @@
 				"y": -0.1113,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 30503.0000,
+					"Links": 92.0000,
+					"Total link strength": 30487.0000,
 					"Documents": 93.0000,
-					"Citations": 2260.0000,
-					"Norm. citations": 78.4759
+					"Norm. citations": 78.4759,
+					"Citations": 2260.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8438,
 					"Avg. pub. year": 2013.3333,
-					"Avg. citations": 24.3011,
-					"Avg. norm. citations": 0.8438
+					"Avg. citations": 24.3011
 				}
 			},
 			{
@@ -1110,16 +1110,16 @@
 				"y": -0.6237,
 				"cluster": 1,
 				"weights": {
-					"Links": 77.0000,
-					"Total link strength": 18034.0000,
+					"Links": 76.0000,
+					"Total link strength": 18027.0000,
 					"Documents": 36.0000,
-					"Citations": 3043.0000,
-					"Norm. citations": 61.0030
+					"Norm. citations": 61.0030,
+					"Citations": 3043.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.6945,
 					"Avg. pub. year": 2004.9167,
-					"Avg. citations": 84.5278,
-					"Avg. norm. citations": 1.6945
+					"Avg. citations": 84.5278
 				}
 			},
 			{
@@ -1129,16 +1129,16 @@
 				"y": 0.2348,
 				"cluster": 4,
 				"weights": {
-					"Links": 77.0000,
-					"Total link strength": 17957.0000,
+					"Links": 76.0000,
+					"Total link strength": 17941.0000,
 					"Documents": 26.0000,
-					"Citations": 348.0000,
-					"Norm. citations": 8.5839
+					"Norm. citations": 8.5839,
+					"Citations": 348.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.3301,
 					"Avg. pub. year": 2010.4231,
-					"Avg. citations": 13.3846,
-					"Avg. norm. citations": 0.3301
+					"Avg. citations": 13.3846
 				}
 			},
 			{
@@ -1148,16 +1148,16 @@
 				"y": 0.5874,
 				"cluster": 3,
 				"weights": {
-					"Links": 92.0000,
-					"Total link strength": 39158.0000,
+					"Links": 91.0000,
+					"Total link strength": 39119.0000,
 					"Documents": 105.0000,
-					"Citations": 2252.0000,
-					"Norm. citations": 50.9012
+					"Norm. citations": 50.9012,
+					"Citations": 2252.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.4848,
 					"Avg. pub. year": 1989.4857,
-					"Avg. citations": 21.4476,
-					"Avg. norm. citations": 0.4848
+					"Avg. citations": 21.4476
 				}
 			},
 			{
@@ -1167,16 +1167,16 @@
 				"y": -0.5904,
 				"cluster": 1,
 				"weights": {
-					"Links": 86.0000,
-					"Total link strength": 21992.0000,
+					"Links": 85.0000,
+					"Total link strength": 21886.0000,
 					"Documents": 28.0000,
-					"Citations": 2326.0000,
-					"Norm. citations": 41.8620
+					"Norm. citations": 41.8620,
+					"Citations": 2326.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.4951,
 					"Avg. pub. year": 2003.2857,
-					"Avg. citations": 83.0714,
-					"Avg. norm. citations": 1.4951
+					"Avg. citations": 83.0714
 				}
 			},
 			{
@@ -1186,16 +1186,16 @@
 				"y": 0.7461,
 				"cluster": 3,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 10633.0000,
+					"Links": 81.0000,
+					"Total link strength": 10623.0000,
 					"Documents": 34.0000,
-					"Citations": 823.0000,
-					"Norm. citations": 18.9874
+					"Norm. citations": 18.9874,
+					"Citations": 823.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.5585,
 					"Avg. pub. year": 1983.6176,
-					"Avg. citations": 24.2059,
-					"Avg. norm. citations": 0.5585
+					"Avg. citations": 24.2059
 				}
 			},
 			{
@@ -1205,16 +1205,16 @@
 				"y": -0.2177,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 23161.0000,
+					"Links": 92.0000,
+					"Total link strength": 23151.0000,
 					"Documents": 53.0000,
-					"Citations": 1263.0000,
-					"Norm. citations": 29.5812
+					"Norm. citations": 29.5812,
+					"Citations": 1263.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.5581,
 					"Avg. pub. year": 2005.5094,
-					"Avg. citations": 23.8302,
-					"Avg. norm. citations": 0.5581
+					"Avg. citations": 23.8302
 				}
 			},
 			{
@@ -1224,16 +1224,16 @@
 				"y": 0.4195,
 				"cluster": 3,
 				"weights": {
-					"Links": 71.0000,
-					"Total link strength": 2700.0000,
+					"Links": 70.0000,
+					"Total link strength": 2694.0000,
 					"Documents": 32.0000,
-					"Citations": 1625.0000,
-					"Norm. citations": 36.0453
+					"Norm. citations": 36.0453,
+					"Citations": 1625.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.1264,
 					"Avg. pub. year": 1987.1875,
-					"Avg. citations": 50.7812,
-					"Avg. norm. citations": 1.1264
+					"Avg. citations": 50.7812
 				}
 			},
 			{
@@ -1243,16 +1243,16 @@
 				"y": 0.5753,
 				"cluster": 1,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 41807.0000,
+					"Links": 90.0000,
+					"Total link strength": 41748.0000,
 					"Documents": 51.0000,
-					"Citations": 1332.0000,
-					"Norm. citations": 32.7636
+					"Norm. citations": 32.7636,
+					"Citations": 1332.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6424,
 					"Avg. pub. year": 2009.6667,
-					"Avg. citations": 26.1176,
-					"Avg. norm. citations": 0.6424
+					"Avg. citations": 26.1176
 				}
 			},
 			{
@@ -1262,16 +1262,16 @@
 				"y": 0.8520,
 				"cluster": 3,
 				"weights": {
-					"Links": 82.0000,
-					"Total link strength": 31080.0000,
+					"Links": 81.0000,
+					"Total link strength": 31050.0000,
 					"Documents": 86.0000,
-					"Citations": 1497.0000,
-					"Norm. citations": 33.8237
+					"Norm. citations": 33.8237,
+					"Citations": 1497.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.3933,
 					"Avg. pub. year": 1993.5465,
-					"Avg. citations": 17.4070,
-					"Avg. norm. citations": 0.3933
+					"Avg. citations": 17.4070
 				}
 			},
 			{
@@ -1281,16 +1281,16 @@
 				"y": 0.8066,
 				"cluster": 3,
 				"weights": {
-					"Links": 86.0000,
-					"Total link strength": 9132.0000,
+					"Links": 85.0000,
+					"Total link strength": 9117.0000,
 					"Documents": 20.0000,
-					"Citations": 186.0000,
-					"Norm. citations": 7.1485
+					"Norm. citations": 7.1485,
+					"Citations": 186.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.3574,
 					"Avg. pub. year": 2012.6000,
-					"Avg. citations": 9.3000,
-					"Avg. norm. citations": 0.3574
+					"Avg. citations": 9.3000
 				}
 			},
 			{
@@ -1300,16 +1300,16 @@
 				"y": 0.2311,
 				"cluster": 1,
 				"weights": {
-					"Links": 86.0000,
-					"Total link strength": 24638.0000,
+					"Links": 85.0000,
+					"Total link strength": 24633.0000,
 					"Documents": 38.0000,
-					"Citations": 3748.0000,
-					"Norm. citations": 121.2964
+					"Norm. citations": 121.2964,
+					"Citations": 3748.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 3.1920,
 					"Avg. pub. year": 2015.9737,
-					"Avg. citations": 98.6316,
-					"Avg. norm. citations": 3.1920
+					"Avg. citations": 98.6316
 				}
 			},
 			{
@@ -1319,16 +1319,16 @@
 				"y": -0.3093,
 				"cluster": 4,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 61906.0000,
+					"Links": 90.0000,
+					"Total link strength": 61638.0000,
 					"Documents": 87.0000,
-					"Citations": 2926.0000,
-					"Norm. citations": 69.8611
+					"Norm. citations": 69.8611,
+					"Citations": 2926.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8030,
 					"Avg. pub. year": 2005.8391,
-					"Avg. citations": 33.6322,
-					"Avg. norm. citations": 0.8030
+					"Avg. citations": 33.6322
 				}
 			},
 			{
@@ -1338,16 +1338,16 @@
 				"y": 0.8459,
 				"cluster": 5,
 				"weights": {
-					"Links": 92.0000,
-					"Total link strength": 30613.0000,
+					"Links": 91.0000,
+					"Total link strength": 30565.0000,
 					"Documents": 28.0000,
-					"Citations": 3541.0000,
-					"Norm. citations": 61.1566
+					"Norm. citations": 61.1566,
+					"Citations": 3541.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.1842,
 					"Avg. pub. year": 2003.7500,
-					"Avg. citations": 126.4643,
-					"Avg. norm. citations": 2.1842
+					"Avg. citations": 126.4643
 				}
 			},
 			{
@@ -1357,16 +1357,16 @@
 				"y": 0.1461,
 				"cluster": 2,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 13360.0000,
+					"Links": 89.0000,
+					"Total link strength": 13357.0000,
 					"Documents": 23.0000,
-					"Citations": 310.0000,
-					"Norm. citations": 24.1713
+					"Norm. citations": 24.1713,
+					"Citations": 310.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.0509,
 					"Avg. pub. year": 2019.1304,
-					"Avg. citations": 13.4783,
-					"Avg. norm. citations": 1.0509
+					"Avg. citations": 13.4783
 				}
 			},
 			{
@@ -1376,16 +1376,16 @@
 				"y": -0.4766,
 				"cluster": 2,
 				"weights": {
-					"Links": 78.0000,
-					"Total link strength": 21393.0000,
+					"Links": 77.0000,
+					"Total link strength": 21386.0000,
 					"Documents": 29.0000,
-					"Citations": 1307.0000,
-					"Norm. citations": 43.4727
+					"Norm. citations": 43.4727,
+					"Citations": 1307.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.4991,
 					"Avg. pub. year": 2016.7241,
-					"Avg. citations": 45.0690,
-					"Avg. norm. citations": 1.4991
+					"Avg. citations": 45.0690
 				}
 			},
 			{
@@ -1395,16 +1395,16 @@
 				"y": -0.5532,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 62885.0000,
+					"Links": 92.0000,
+					"Total link strength": 62871.0000,
 					"Documents": 139.0000,
-					"Citations": 4491.0000,
-					"Norm. citations": 92.0376
+					"Norm. citations": 92.0376,
+					"Citations": 4491.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6621,
 					"Avg. pub. year": 1994.6835,
-					"Avg. citations": 32.3094,
-					"Avg. norm. citations": 0.6621
+					"Avg. citations": 32.3094
 				}
 			},
 			{
@@ -1417,13 +1417,13 @@
 					"Links": 64.0000,
 					"Total link strength": 8730.0000,
 					"Documents": 27.0000,
-					"Citations": 746.0000,
-					"Norm. citations": 17.1409
+					"Norm. citations": 17.1409,
+					"Citations": 746.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6348,
 					"Avg. pub. year": 2012.0370,
-					"Avg. citations": 27.6296,
-					"Avg. norm. citations": 0.6348
+					"Avg. citations": 27.6296
 				}
 			},
 			{
@@ -1433,16 +1433,16 @@
 				"y": 0.5380,
 				"cluster": 5,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 129908.0000,
+					"Links": 92.0000,
+					"Total link strength": 129688.0000,
 					"Documents": 186.0000,
-					"Citations": 19501.0000,
-					"Norm. citations": 379.1865
+					"Norm. citations": 379.1865,
+					"Citations": 19501.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.0386,
 					"Avg. pub. year": 2000.8226,
-					"Avg. citations": 104.8441,
-					"Avg. norm. citations": 2.0386
+					"Avg. citations": 104.8441
 				}
 			},
 			{
@@ -1452,16 +1452,16 @@
 				"y": -0.1424,
 				"cluster": 1,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 23619.0000,
+					"Links": 89.0000,
+					"Total link strength": 23587.0000,
 					"Documents": 82.0000,
-					"Citations": 4261.0000,
-					"Norm. citations": 114.7631
+					"Norm. citations": 114.7631,
+					"Citations": 4261.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.3995,
 					"Avg. pub. year": 2011.3049,
-					"Avg. citations": 51.9634,
-					"Avg. norm. citations": 1.3995
+					"Avg. citations": 51.9634
 				}
 			},
 			{
@@ -1471,16 +1471,16 @@
 				"y": -0.5298,
 				"cluster": 6,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 124679.0000,
+					"Links": 92.0000,
+					"Total link strength": 118906.0000,
 					"Documents": 216.0000,
-					"Citations": 7966.0000,
-					"Norm. citations": 183.5357
+					"Norm. citations": 183.5357,
+					"Citations": 7966.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8497,
 					"Avg. pub. year": 2002.0231,
-					"Avg. citations": 36.8796,
-					"Avg. norm. citations": 0.8497
+					"Avg. citations": 36.8796
 				}
 			},
 			{
@@ -1490,16 +1490,16 @@
 				"y": -0.2817,
 				"cluster": 1,
 				"weights": {
-					"Links": 84.0000,
-					"Total link strength": 13350.0000,
+					"Links": 83.0000,
+					"Total link strength": 13345.0000,
 					"Documents": 31.0000,
-					"Citations": 1055.0000,
-					"Norm. citations": 25.7785
+					"Norm. citations": 25.7785,
+					"Citations": 1055.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.8316,
 					"Avg. pub. year": 2008.9032,
-					"Avg. citations": 34.0323,
-					"Avg. norm. citations": 0.8316
+					"Avg. citations": 34.0323
 				}
 			},
 			{
@@ -1509,16 +1509,16 @@
 				"y": -0.2860,
 				"cluster": 1,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 73113.0000,
+					"Links": 90.0000,
+					"Total link strength": 73039.0000,
 					"Documents": 142.0000,
-					"Citations": 13187.0000,
-					"Norm. citations": 278.1756
+					"Norm. citations": 278.1756,
+					"Citations": 13187.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.9590,
 					"Avg. pub. year": 2004.1408,
-					"Avg. citations": 92.8662,
-					"Avg. norm. citations": 1.9590
+					"Avg. citations": 92.8662
 				}
 			},
 			{
@@ -1528,16 +1528,16 @@
 				"y": 0.7370,
 				"cluster": 5,
 				"weights": {
-					"Links": 83.0000,
-					"Total link strength": 22437.0000,
+					"Links": 82.0000,
+					"Total link strength": 22425.0000,
 					"Documents": 23.0000,
-					"Citations": 1585.0000,
-					"Norm. citations": 36.5225
+					"Norm. citations": 36.5225,
+					"Citations": 1585.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.5879,
 					"Avg. pub. year": 2012.3478,
-					"Avg. citations": 68.9130,
-					"Avg. norm. citations": 1.5879
+					"Avg. citations": 68.9130
 				}
 			},
 			{
@@ -1547,16 +1547,16 @@
 				"y": -0.0901,
 				"cluster": 4,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 27878.0000,
+					"Links": 90.0000,
+					"Total link strength": 27871.0000,
 					"Documents": 32.0000,
-					"Citations": 1212.0000,
-					"Norm. citations": 21.8112
+					"Norm. citations": 21.8112,
+					"Citations": 1212.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.6816,
 					"Avg. pub. year": 2002.6875,
-					"Avg. citations": 37.8750,
-					"Avg. norm. citations": 0.6816
+					"Avg. citations": 37.8750
 				}
 			},
 			{
@@ -1569,13 +1569,13 @@
 					"Links": 76.0000,
 					"Total link strength": 6263.0000,
 					"Documents": 20.0000,
-					"Citations": 452.0000,
-					"Norm. citations": 24.1981
+					"Norm. citations": 24.1981,
+					"Citations": 452.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.2099,
 					"Avg. pub. year": 2015.7500,
-					"Avg. citations": 22.6000,
-					"Avg. norm. citations": 1.2099
+					"Avg. citations": 22.6000
 				}
 			},
 			{
@@ -1585,16 +1585,16 @@
 				"y": -0.1311,
 				"cluster": 1,
 				"weights": {
-					"Links": 89.0000,
-					"Total link strength": 20099.0000,
+					"Links": 88.0000,
+					"Total link strength": 20066.0000,
 					"Documents": 29.0000,
-					"Citations": 4212.0000,
-					"Norm. citations": 75.6185
+					"Norm. citations": 75.6185,
+					"Citations": 4212.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 2.6075,
 					"Avg. pub. year": 2002.2069,
-					"Avg. citations": 145.2414,
-					"Avg. norm. citations": 2.6075
+					"Avg. citations": 145.2414
 				}
 			},
 			{
@@ -1604,16 +1604,16 @@
 				"y": 0.0869,
 				"cluster": 1,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 28728.0000,
+					"Links": 90.0000,
+					"Total link strength": 28703.0000,
 					"Documents": 52.0000,
-					"Citations": 2049.0000,
-					"Norm. citations": 49.7500
+					"Norm. citations": 49.7500,
+					"Citations": 2049.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9567,
 					"Avg. pub. year": 2009.6667,
-					"Avg. citations": 39.4038,
-					"Avg. norm. citations": 0.9567
+					"Avg. citations": 39.4038
 				}
 			},
 			{
@@ -1623,16 +1623,16 @@
 				"y": 0.5261,
 				"cluster": 1,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 15973.0000,
+					"Links": 90.0000,
+					"Total link strength": 15947.0000,
 					"Documents": 26.0000,
-					"Citations": 1511.0000,
-					"Norm. citations": 32.6481
+					"Norm. citations": 32.6481,
+					"Citations": 1511.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.2557,
 					"Avg. pub. year": 2005.3846,
-					"Avg. citations": 58.1154,
-					"Avg. norm. citations": 1.2557
+					"Avg. citations": 58.1154
 				}
 			},
 			{
@@ -1642,16 +1642,16 @@
 				"y": 0.8714,
 				"cluster": 3,
 				"weights": {
-					"Links": 84.0000,
-					"Total link strength": 23591.0000,
+					"Links": 83.0000,
+					"Total link strength": 23561.0000,
 					"Documents": 64.0000,
-					"Citations": 928.0000,
-					"Norm. citations": 20.7073
+					"Norm. citations": 20.7073,
+					"Citations": 928.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.3236,
 					"Avg. pub. year": 2000.5469,
-					"Avg. citations": 14.5000,
-					"Avg. norm. citations": 0.3236
+					"Avg. citations": 14.5000
 				}
 			},
 			{
@@ -1661,16 +1661,16 @@
 				"y": 0.0484,
 				"cluster": 2,
 				"weights": {
-					"Links": 93.0000,
-					"Total link strength": 56646.0000,
+					"Links": 92.0000,
+					"Total link strength": 56623.0000,
 					"Documents": 167.0000,
-					"Citations": 3508.0000,
-					"Norm. citations": 117.2225
+					"Norm. citations": 117.2225,
+					"Citations": 3508.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7019,
 					"Avg. pub. year": 2012.5868,
-					"Avg. citations": 21.0060,
-					"Avg. norm. citations": 0.7019
+					"Avg. citations": 21.0060
 				}
 			},
 			{
@@ -1680,16 +1680,16 @@
 				"y": -0.5795,
 				"cluster": 3,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 16016.0000,
+					"Links": 89.0000,
+					"Total link strength": 16005.0000,
 					"Documents": 48.0000,
-					"Citations": 1653.0000,
-					"Norm. citations": 33.9800
+					"Norm. citations": 33.9800,
+					"Citations": 1653.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7079,
 					"Avg. pub. year": 1991.4792,
-					"Avg. citations": 34.4375,
-					"Avg. norm. citations": 0.7079
+					"Avg. citations": 34.4375
 				}
 			},
 			{
@@ -1699,16 +1699,16 @@
 				"y": -0.4000,
 				"cluster": 3,
 				"weights": {
-					"Links": 91.0000,
-					"Total link strength": 8543.0000,
+					"Links": 90.0000,
+					"Total link strength": 8528.0000,
 					"Documents": 64.0000,
-					"Citations": 1660.0000,
-					"Norm. citations": 49.6656
+					"Norm. citations": 49.6656,
+					"Citations": 1660.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.7760,
 					"Avg. pub. year": 1984.9688,
-					"Avg. citations": 25.9375,
-					"Avg. norm. citations": 0.7760
+					"Avg. citations": 25.9375
 				}
 			},
 			{
@@ -1718,16 +1718,16 @@
 				"y": 0.2538,
 				"cluster": 2,
 				"weights": {
-					"Links": 90.0000,
-					"Total link strength": 18679.0000,
+					"Links": 89.0000,
+					"Total link strength": 18672.0000,
 					"Documents": 32.0000,
-					"Citations": 301.0000,
-					"Norm. citations": 29.5122
+					"Norm. citations": 29.5122,
+					"Citations": 301.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9223,
 					"Avg. pub. year": 2019.5312,
-					"Avg. citations": 9.4062,
-					"Avg. norm. citations": 0.9223
+					"Avg. citations": 9.4062
 				}
 			},
 			{
@@ -1737,16 +1737,16 @@
 				"y": -0.1059,
 				"cluster": 1,
 				"weights": {
-					"Links": 75.0000,
-					"Total link strength": 12208.0000,
+					"Links": 74.0000,
+					"Total link strength": 12205.0000,
 					"Documents": 23.0000,
-					"Citations": 1402.0000,
-					"Norm. citations": 41.3464
+					"Norm. citations": 41.3464,
+					"Citations": 1402.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 1.7977,
 					"Avg. pub. year": 2012.3478,
-					"Avg. citations": 60.9565,
-					"Avg. norm. citations": 1.7977
+					"Avg. citations": 60.9565
 				}
 			},
 			{
@@ -1756,16 +1756,16 @@
 				"y": -0.5165,
 				"cluster": 1,
 				"weights": {
-					"Links": 87.0000,
-					"Total link strength": 19804.0000,
+					"Links": 86.0000,
+					"Total link strength": 19654.0000,
 					"Documents": 28.0000,
-					"Citations": 913.0000,
-					"Norm. citations": 26.5266
+					"Norm. citations": 26.5266,
+					"Citations": 913.0000
 				},
 				"scores": {
+					"Avg. norm. citations": 0.9474,
 					"Avg. pub. year": 2012.1429,
-					"Avg. citations": 32.6071,
-					"Avg. norm. citations": 0.9474
+					"Avg. citations": 32.6071
 				}
 			}
 		],
@@ -2477,11 +2477,6 @@
 			},
 			{
 				"source_id": 182,
-				"target_id": 3580,
-				"strength": 20.0000
-			},
-			{
-				"source_id": 182,
 				"target_id": 3587,
 				"strength": 42.0000
 			},
@@ -2854,11 +2849,6 @@
 				"source_id": 453,
 				"target_id": 3560,
 				"strength": 1490.0000
-			},
-			{
-				"source_id": 453,
-				"target_id": 3580,
-				"strength": 2.0000
 			},
 			{
 				"source_id": 453,
@@ -3297,11 +3287,6 @@
 			},
 			{
 				"source_id": 490,
-				"target_id": 3580,
-				"strength": 42.0000
-			},
-			{
-				"source_id": 490,
 				"target_id": 3587,
 				"strength": 14208.0000
 			},
@@ -3732,11 +3717,6 @@
 			},
 			{
 				"source_id": 501,
-				"target_id": 3580,
-				"strength": 99.0000
-			},
-			{
-				"source_id": 501,
 				"target_id": 3587,
 				"strength": 328.0000
 			},
@@ -4119,11 +4099,6 @@
 				"source_id": 613,
 				"target_id": 3560,
 				"strength": 2.0000
-			},
-			{
-				"source_id": 613,
-				"target_id": 3580,
-				"strength": 8.0000
 			},
 			{
 				"source_id": 613,
@@ -4542,11 +4517,6 @@
 			},
 			{
 				"source_id": 620,
-				"target_id": 3580,
-				"strength": 20.0000
-			},
-			{
-				"source_id": 620,
 				"target_id": 3587,
 				"strength": 89.0000
 			},
@@ -4937,11 +4907,6 @@
 			},
 			{
 				"source_id": 665,
-				"target_id": 3580,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 665,
 				"target_id": 3587,
 				"strength": 45.0000
 			},
@@ -5269,11 +5234,6 @@
 				"source_id": 696,
 				"target_id": 3560,
 				"strength": 23.0000
-			},
-			{
-				"source_id": 696,
-				"target_id": 3580,
-				"strength": 2.0000
 			},
 			{
 				"source_id": 696,
@@ -5624,11 +5584,6 @@
 				"source_id": 709,
 				"target_id": 3560,
 				"strength": 9.0000
-			},
-			{
-				"source_id": 709,
-				"target_id": 3580,
-				"strength": 5.0000
 			},
 			{
 				"source_id": 709,
@@ -6032,11 +5987,6 @@
 			},
 			{
 				"source_id": 718,
-				"target_id": 3580,
-				"strength": 180.0000
-			},
-			{
-				"source_id": 718,
 				"target_id": 3587,
 				"strength": 169.0000
 			},
@@ -6392,11 +6342,6 @@
 			},
 			{
 				"source_id": 761,
-				"target_id": 3580,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 761,
 				"target_id": 3587,
 				"strength": 811.0000
 			},
@@ -6739,11 +6684,6 @@
 				"source_id": 825,
 				"target_id": 3560,
 				"strength": 275.0000
-			},
-			{
-				"source_id": 825,
-				"target_id": 3580,
-				"strength": 28.0000
 			},
 			{
 				"source_id": 825,
@@ -7142,11 +7082,6 @@
 			},
 			{
 				"source_id": 847,
-				"target_id": 3580,
-				"strength": 76.0000
-			},
-			{
-				"source_id": 847,
 				"target_id": 3587,
 				"strength": 387.0000
 			},
@@ -7479,11 +7414,6 @@
 				"source_id": 863,
 				"target_id": 3538,
 				"strength": 8.0000
-			},
-			{
-				"source_id": 863,
-				"target_id": 3580,
-				"strength": 4.0000
 			},
 			{
 				"source_id": 863,
@@ -7824,11 +7754,6 @@
 				"source_id": 961,
 				"target_id": 3560,
 				"strength": 330.0000
-			},
-			{
-				"source_id": 961,
-				"target_id": 3580,
-				"strength": 184.0000
 			},
 			{
 				"source_id": 961,
@@ -8212,11 +8137,6 @@
 			},
 			{
 				"source_id": 966,
-				"target_id": 3580,
-				"strength": 38.0000
-			},
-			{
-				"source_id": 966,
 				"target_id": 3587,
 				"strength": 201.0000
 			},
@@ -8569,11 +8489,6 @@
 				"source_id": 1010,
 				"target_id": 3560,
 				"strength": 37.0000
-			},
-			{
-				"source_id": 1010,
-				"target_id": 3580,
-				"strength": 75.0000
 			},
 			{
 				"source_id": 1010,
@@ -9212,11 +9127,6 @@
 			},
 			{
 				"source_id": 1033,
-				"target_id": 3580,
-				"strength": 88.0000
-			},
-			{
-				"source_id": 1033,
 				"target_id": 3587,
 				"strength": 429.0000
 			},
@@ -9572,11 +9482,6 @@
 			},
 			{
 				"source_id": 1096,
-				"target_id": 3580,
-				"strength": 8.0000
-			},
-			{
-				"source_id": 1096,
 				"target_id": 3587,
 				"strength": 17.0000
 			},
@@ -9924,11 +9829,6 @@
 				"source_id": 1101,
 				"target_id": 3560,
 				"strength": 48.0000
-			},
-			{
-				"source_id": 1101,
-				"target_id": 3580,
-				"strength": 23.0000
 			},
 			{
 				"source_id": 1101,
@@ -10282,11 +10182,6 @@
 			},
 			{
 				"source_id": 1102,
-				"target_id": 3580,
-				"strength": 15.0000
-			},
-			{
-				"source_id": 1102,
 				"target_id": 3587,
 				"strength": 11.0000
 			},
@@ -10599,11 +10494,6 @@
 				"source_id": 1144,
 				"target_id": 3538,
 				"strength": 8.0000
-			},
-			{
-				"source_id": 1144,
-				"target_id": 3580,
-				"strength": 2.0000
 			},
 			{
 				"source_id": 1144,
@@ -10929,11 +10819,6 @@
 				"source_id": 1148,
 				"target_id": 3560,
 				"strength": 4581.0000
-			},
-			{
-				"source_id": 1148,
-				"target_id": 3580,
-				"strength": 155.0000
 			},
 			{
 				"source_id": 1148,
@@ -11552,11 +11437,6 @@
 			},
 			{
 				"source_id": 1243,
-				"target_id": 3580,
-				"strength": 140.0000
-			},
-			{
-				"source_id": 1243,
 				"target_id": 3587,
 				"strength": 536.0000
 			},
@@ -11869,11 +11749,6 @@
 				"source_id": 1248,
 				"target_id": 3560,
 				"strength": 36.0000
-			},
-			{
-				"source_id": 1248,
-				"target_id": 3580,
-				"strength": 12.0000
 			},
 			{
 				"source_id": 1248,
@@ -12192,11 +12067,6 @@
 			},
 			{
 				"source_id": 1279,
-				"target_id": 3580,
-				"strength": 42.0000
-			},
-			{
-				"source_id": 1279,
 				"target_id": 3587,
 				"strength": 76.0000
 			},
@@ -12469,11 +12339,6 @@
 				"source_id": 1380,
 				"target_id": 3560,
 				"strength": 198.0000
-			},
-			{
-				"source_id": 1380,
-				"target_id": 3580,
-				"strength": 20.0000
 			},
 			{
 				"source_id": 1380,
@@ -12772,11 +12637,6 @@
 			},
 			{
 				"source_id": 1444,
-				"target_id": 3580,
-				"strength": 14.0000
-			},
-			{
-				"source_id": 1444,
 				"target_id": 3587,
 				"strength": 36.0000
 			},
@@ -13069,11 +12929,6 @@
 				"source_id": 1555,
 				"target_id": 3560,
 				"strength": 122.0000
-			},
-			{
-				"source_id": 1555,
-				"target_id": 3580,
-				"strength": 43.0000
 			},
 			{
 				"source_id": 1555,
@@ -13372,11 +13227,6 @@
 			},
 			{
 				"source_id": 1836,
-				"target_id": 3580,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 1836,
 				"target_id": 3587,
 				"strength": 63.0000
 			},
@@ -13672,11 +13522,6 @@
 			},
 			{
 				"source_id": 1860,
-				"target_id": 3580,
-				"strength": 26.0000
-			},
-			{
-				"source_id": 1860,
 				"target_id": 3587,
 				"strength": 220.0000
 			},
@@ -13959,11 +13804,6 @@
 				"source_id": 1870,
 				"target_id": 3560,
 				"strength": 13.0000
-			},
-			{
-				"source_id": 1870,
-				"target_id": 3580,
-				"strength": 15.0000
 			},
 			{
 				"source_id": 1870,
@@ -14462,11 +14302,6 @@
 			},
 			{
 				"source_id": 1900,
-				"target_id": 3580,
-				"strength": 47.0000
-			},
-			{
-				"source_id": 1900,
 				"target_id": 3587,
 				"strength": 24.0000
 			},
@@ -14699,11 +14534,6 @@
 				"source_id": 1904,
 				"target_id": 3560,
 				"strength": 177.0000
-			},
-			{
-				"source_id": 1904,
-				"target_id": 3580,
-				"strength": 3.0000
 			},
 			{
 				"source_id": 1904,
@@ -14964,11 +14794,6 @@
 				"source_id": 1988,
 				"target_id": 3560,
 				"strength": 912.0000
-			},
-			{
-				"source_id": 1988,
-				"target_id": 3580,
-				"strength": 25.0000
 			},
 			{
 				"source_id": 1988,
@@ -15237,11 +15062,6 @@
 			},
 			{
 				"source_id": 2023,
-				"target_id": 3580,
-				"strength": 28.0000
-			},
-			{
-				"source_id": 2023,
 				"target_id": 3587,
 				"strength": 464.0000
 			},
@@ -15492,11 +15312,6 @@
 			},
 			{
 				"source_id": 2033,
-				"target_id": 3580,
-				"strength": 73.0000
-			},
-			{
-				"source_id": 2033,
 				"target_id": 3587,
 				"strength": 4866.0000
 			},
@@ -15742,11 +15557,6 @@
 			},
 			{
 				"source_id": 2038,
-				"target_id": 3580,
-				"strength": 30.0000
-			},
-			{
-				"source_id": 2038,
 				"target_id": 3587,
 				"strength": 109.0000
 			},
@@ -15969,11 +15779,6 @@
 				"source_id": 2041,
 				"target_id": 3560,
 				"strength": 70.0000
-			},
-			{
-				"source_id": 2041,
-				"target_id": 3580,
-				"strength": 1979.0000
 			},
 			{
 				"source_id": 2041,
@@ -16217,11 +16022,6 @@
 			},
 			{
 				"source_id": 2043,
-				"target_id": 3580,
-				"strength": 37.0000
-			},
-			{
-				"source_id": 2043,
 				"target_id": 3587,
 				"strength": 102.0000
 			},
@@ -16457,11 +16257,6 @@
 			},
 			{
 				"source_id": 2135,
-				"target_id": 3580,
-				"strength": 27.0000
-			},
-			{
-				"source_id": 2135,
 				"target_id": 3587,
 				"strength": 40.0000
 			},
@@ -16689,11 +16484,6 @@
 				"source_id": 2139,
 				"target_id": 3560,
 				"strength": 642.0000
-			},
-			{
-				"source_id": 2139,
-				"target_id": 3580,
-				"strength": 283.0000
 			},
 			{
 				"source_id": 2139,
@@ -16927,11 +16717,6 @@
 			},
 			{
 				"source_id": 2175,
-				"target_id": 3580,
-				"strength": 14.0000
-			},
-			{
-				"source_id": 2175,
 				"target_id": 3587,
 				"strength": 61.0000
 			},
@@ -17142,11 +16927,6 @@
 			},
 			{
 				"source_id": 2203,
-				"target_id": 3580,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 2203,
 				"target_id": 3587,
 				"strength": 16.0000
 			},
@@ -17349,11 +17129,6 @@
 				"source_id": 2223,
 				"target_id": 3560,
 				"strength": 8.0000
-			},
-			{
-				"source_id": 2223,
-				"target_id": 3580,
-				"strength": 12.0000
 			},
 			{
 				"source_id": 2223,
@@ -17572,11 +17347,6 @@
 			},
 			{
 				"source_id": 2342,
-				"target_id": 3580,
-				"strength": 176.0000
-			},
-			{
-				"source_id": 2342,
 				"target_id": 3587,
 				"strength": 3665.0000
 			},
@@ -17782,11 +17552,6 @@
 			},
 			{
 				"source_id": 2381,
-				"target_id": 3580,
-				"strength": 8.0000
-			},
-			{
-				"source_id": 2381,
 				"target_id": 3587,
 				"strength": 40.0000
 			},
@@ -17977,11 +17742,6 @@
 			},
 			{
 				"source_id": 2493,
-				"target_id": 3580,
-				"strength": 23.0000
-			},
-			{
-				"source_id": 2493,
 				"target_id": 3587,
 				"strength": 10390.0000
 			},
@@ -18169,11 +17929,6 @@
 				"source_id": 2511,
 				"target_id": 3560,
 				"strength": 78.0000
-			},
-			{
-				"source_id": 2511,
-				"target_id": 3580,
-				"strength": 34.0000
 			},
 			{
 				"source_id": 2511,
@@ -18372,11 +18127,6 @@
 			},
 			{
 				"source_id": 2536,
-				"target_id": 3580,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 2536,
 				"target_id": 3587,
 				"strength": 1206.0000
 			},
@@ -18557,11 +18307,6 @@
 			},
 			{
 				"source_id": 2548,
-				"target_id": 3580,
-				"strength": 14.0000
-			},
-			{
-				"source_id": 2548,
 				"target_id": 3587,
 				"strength": 52.0000
 			},
@@ -18734,11 +18479,6 @@
 				"source_id": 2792,
 				"target_id": 3560,
 				"strength": 181.0000
-			},
-			{
-				"source_id": 2792,
-				"target_id": 3580,
-				"strength": 124.0000
 			},
 			{
 				"source_id": 2792,
@@ -18922,11 +18662,6 @@
 			},
 			{
 				"source_id": 2797,
-				"target_id": 3580,
-				"strength": 4647.0000
-			},
-			{
-				"source_id": 2797,
 				"target_id": 3587,
 				"strength": 386.0000
 			},
@@ -19102,11 +18837,6 @@
 			},
 			{
 				"source_id": 2838,
-				"target_id": 3580,
-				"strength": 16.0000
-			},
-			{
-				"source_id": 2838,
 				"target_id": 3587,
 				"strength": 29.0000
 			},
@@ -19267,11 +18997,6 @@
 			},
 			{
 				"source_id": 2842,
-				"target_id": 3580,
-				"strength": 7.0000
-			},
-			{
-				"source_id": 2842,
 				"target_id": 3587,
 				"strength": 732.0000
 			},
@@ -19417,11 +19142,6 @@
 			},
 			{
 				"source_id": 2854,
-				"target_id": 3580,
-				"strength": 16.0000
-			},
-			{
-				"source_id": 2854,
 				"target_id": 3587,
 				"strength": 401.0000
 			},
@@ -19549,11 +19269,6 @@
 				"source_id": 2891,
 				"target_id": 3560,
 				"strength": 88.0000
-			},
-			{
-				"source_id": 2891,
-				"target_id": 3580,
-				"strength": 39.0000
 			},
 			{
 				"source_id": 2891,
@@ -19702,11 +19417,6 @@
 			},
 			{
 				"source_id": 2932,
-				"target_id": 3580,
-				"strength": 106.0000
-			},
-			{
-				"source_id": 2932,
 				"target_id": 3587,
 				"strength": 557.0000
 			},
@@ -19852,11 +19562,6 @@
 			},
 			{
 				"source_id": 2982,
-				"target_id": 3580,
-				"strength": 10.0000
-			},
-			{
-				"source_id": 2982,
 				"target_id": 3587,
 				"strength": 37.0000
 			},
@@ -19979,11 +19684,6 @@
 				"source_id": 3163,
 				"target_id": 3560,
 				"strength": 80.0000
-			},
-			{
-				"source_id": 3163,
-				"target_id": 3580,
-				"strength": 10.0000
 			},
 			{
 				"source_id": 3163,
@@ -20122,11 +19822,6 @@
 			},
 			{
 				"source_id": 3350,
-				"target_id": 3580,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 3350,
 				"target_id": 3587,
 				"strength": 18.0000
 			},
@@ -20224,11 +19919,6 @@
 				"source_id": 3391,
 				"target_id": 3560,
 				"strength": 785.0000
-			},
-			{
-				"source_id": 3391,
-				"target_id": 3580,
-				"strength": 59.0000
 			},
 			{
 				"source_id": 3391,
@@ -20357,11 +20047,6 @@
 			},
 			{
 				"source_id": 3537,
-				"target_id": 3580,
-				"strength": 30.0000
-			},
-			{
-				"source_id": 3537,
 				"target_id": 3587,
 				"strength": 107.0000
 			},
@@ -20464,11 +20149,6 @@
 				"source_id": 3538,
 				"target_id": 3560,
 				"strength": 2.0000
-			},
-			{
-				"source_id": 3538,
-				"target_id": 3580,
-				"strength": 15.0000
 			},
 			{
 				"source_id": 3538,
@@ -20579,11 +20259,6 @@
 				"source_id": 3538,
 				"target_id": 5390,
 				"strength": 36.0000
-			},
-			{
-				"source_id": 3560,
-				"target_id": 3580,
-				"strength": 5.0000
 			},
 			{
 				"source_id": 3560,
@@ -20704,116 +20379,6 @@
 				"source_id": 3560,
 				"target_id": 5390,
 				"strength": 7.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 3587,
-				"strength": 268.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 3619,
-				"strength": 48.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 3760,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 3914,
-				"strength": 7.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 3925,
-				"strength": 14.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4071,
-				"strength": 220.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4129,
-				"strength": 32.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4172,
-				"strength": 5773.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4269,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4374,
-				"strength": 74.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4433,
-				"strength": 12.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4528,
-				"strength": 7.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4596,
-				"strength": 33.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4643,
-				"strength": 25.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4849,
-				"strength": 26.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 4905,
-				"strength": 30.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5032,
-				"strength": 23.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5162,
-				"strength": 11.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5193,
-				"strength": 15.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5272,
-				"strength": 7.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5331,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 3580,
-				"target_id": 5390,
-				"strength": 150.0000
 			},
 			{
 				"source_id": 3587,
@@ -22127,20 +21692,4 @@
 			}
 		]
 	}
-	,
-	"config": {
-		"parameters": 
-			{
-				"item_color": 1,
-				"item_size": 4,
-				"curved_links": false,
-				"dark_ui": true,
-				"show_info": false,
-				"scale": 1.7,
-				"item_size_variation": 0.65,
-				"link_size_variation": 0.7,
-				"max_n_links" : 500
-			}
-		}
 }
-
