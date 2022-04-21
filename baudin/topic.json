@@ -7753,7 +7753,7 @@
 				"curved_links": true,
 				"dark_ui": true,
 				"show_info": false,
-				"item_size_variation": 0.82,
+				"item_size_variation": 0.6,
 				"link_size_variation": 0.6,
 				"scale": 1.5,
 				"max_n_links" : 1000
