@@ -1,0 +1,5011 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 103,
+				"label": "antihydrogen",
+				"x": -0.7764,
+				"y": 0.0126,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9091,
+					"Avg. citations": 12.7273,
+					"Avg. norm. citations": 0.3043
+				}
+			},
+			{
+				"id": 104,
+				"label": "antimatter",
+				"x": -0.7023,
+				"y": 0.1086,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 19.0000,
+					"Avg. norm. citations": 0.5019
+				}
+			},
+			{
+				"id": 135,
+				"label": "atom interferometry",
+				"x": -0.6869,
+				"y": -0.2503,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000,
+					"Avg. citations": 14.1000,
+					"Avg. norm. citations": 0.2625
+				}
+			},
+			{
+				"id": 146,
+				"label": "atomic clock",
+				"x": -1.1095,
+				"y": -0.4726,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 27.2000,
+					"Avg. norm. citations": 0.7506
+				}
+			},
+			{
+				"id": 147,
+				"label": "atomic clocks",
+				"x": -0.9539,
+				"y": -0.2596,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 44.7500,
+					"Avg. norm. citations": 0.8996
+				}
+			},
+			{
+				"id": 184,
+				"label": "bcs theory",
+				"x": -0.7356,
+				"y": 0.3828,
+				"cluster": 8,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 3.2500,
+					"Avg. norm. citations": 0.0978
+				}
+			},
+			{
+				"id": 188,
+				"label": "bec",
+				"x": -0.7725,
+				"y": -0.1420,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 14.2500,
+					"Avg. norm. citations": 0.2996
+				}
+			},
+			{
+				"id": 197,
+				"label": "bias rejection",
+				"x": -1.2265,
+				"y": -0.2392,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.3333,
+					"Avg. citations": 8.3333,
+					"Avg. norm. citations": 0.1969
+				}
+			},
+			{
+				"id": 200,
+				"label": "binaries: close",
+				"x": -0.5904,
+				"y": -0.9982,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 343.7500,
+					"Avg. norm. citations": 4.4389
+				}
+			},
+			{
+				"id": 201,
+				"label": "binaries: general",
+				"x": -0.4207,
+				"y": -0.9480,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6667,
+					"Avg. citations": 368.3333,
+					"Avg. norm. citations": 4.0181
+				}
+			},
+			{
+				"id": 220,
+				"label": "black holes",
+				"x": -0.3434,
+				"y": -0.3254,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.7500,
+					"Avg. citations": 100.5000,
+					"Avg. norm. citations": 3.0109
+				}
+			},
+			{
+				"id": 222,
+				"label": "blinking",
+				"x": 0.8871,
+				"y": 0.2769,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3333,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.4855
+				}
+			},
+			{
+				"id": 235,
+				"label": "bose-einstein condensate",
+				"x": -0.5691,
+				"y": 0.1586,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.2442
+				}
+			},
+			{
+				"id": 236,
+				"label": "bose-einstein condensates",
+				"x": -0.3641,
+				"y": -0.0981,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.1667,
+					"Avg. citations": 17.8333,
+					"Avg. norm. citations": 0.3055
+				}
+			},
+			{
+				"id": 237,
+				"label": "bose-einstein condensation",
+				"x": -0.3172,
+				"y": 0.0251,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.4000,
+					"Avg. citations": 12.2000,
+					"Avg. norm. citations": 0.2616
+				}
+			},
+			{
+				"id": 258,
+				"label": "brownian motion",
+				"x": 0.3924,
+				"y": -0.2078,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.4000,
+					"Avg. citations": 9.2000,
+					"Avg. norm. citations": 0.2587
+				}
+			},
+			{
+				"id": 266,
+				"label": "calibration",
+				"x": -0.1049,
+				"y": -0.5537,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8000,
+					"Avg. citations": 13.4000,
+					"Avg. norm. citations": 0.9737
+				}
+			},
+			{
+				"id": 274,
+				"label": "casimir effect",
+				"x": -0.1799,
+				"y": 0.2115,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.4286,
+					"Avg. citations": 12.7143,
+					"Avg. norm. citations": 0.3048
+				}
+			},
+			{
+				"id": 276,
+				"label": "casimir force",
+				"x": -0.3395,
+				"y": 0.2406,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 9.3333,
+					"Avg. norm. citations": 0.2732
+				}
+			},
+			{
+				"id": 287,
+				"label": "cavity qed",
+				"x": -0.5392,
+				"y": -0.2777,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.8000,
+					"Avg. citations": 0.4000,
+					"Avg. norm. citations": 0.0079
+				}
+			},
+			{
+				"id": 288,
+				"label": "cavity quantum electrodynamics",
+				"x": 0.2525,
+				"y": 0.1438,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.7143,
+					"Avg. citations": 8.7143,
+					"Avg. norm. citations": 0.1441
+				}
+			},
+			{
+				"id": 348,
+				"label": "cold atoms",
+				"x": -0.5019,
+				"y": -0.0777,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.7143,
+					"Avg. citations": 10.7143,
+					"Avg. norm. citations": 0.2901
+				}
+			},
+			{
+				"id": 354,
+				"label": "collective modes",
+				"x": -0.8331,
+				"y": 0.4666,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.3333,
+					"Avg. norm. citations": 0.0133
+				}
+			},
+			{
+				"id": 357,
+				"label": "colloidal nanocrystals",
+				"x": 0.8204,
+				"y": 0.3859,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.6250,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.3811
+				}
+			},
+			{
+				"id": 360,
+				"label": "colloids",
+				"x": 0.6255,
+				"y": 0.3573,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.3333,
+					"Avg. citations": 30.3333,
+					"Avg. norm. citations": 0.6902
+				}
+			},
+			{
+				"id": 380,
+				"label": "compressive sensing",
+				"x": 0.7188,
+				"y": -0.0320,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7500,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0329
+				}
+			},
+			{
+				"id": 407,
+				"label": "cooling",
+				"x": 0.4401,
+				"y": -0.0460,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.3333,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.1394
+				}
+			},
+			{
+				"id": 437,
+				"label": "crystal spectrometer",
+				"x": 0.4551,
+				"y": 0.9379,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.0000,
+					"Avg. citations": 13.6000,
+					"Avg. norm. citations": 0.2053
+				}
+			},
+			{
+				"id": 443,
+				"label": "ct guidance",
+				"x": 1.2185,
+				"y": -0.7276,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.2500,
+					"Avg. citations": 17.2500,
+					"Avg. norm. citations": 0.4678
+				}
+			},
+			{
+				"id": 458,
+				"label": "data analysis",
+				"x": -0.7678,
+				"y": -0.5080,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4000,
+					"Avg. citations": 233.6000,
+					"Avg. norm. citations": 6.9477
+				}
+			},
+			{
+				"id": 465,
+				"label": "decoherence",
+				"x": -0.1834,
+				"y": 0.0913,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.7500,
+					"Avg. citations": 21.5000,
+					"Avg. norm. citations": 0.4624
+				}
+			},
+			{
+				"id": 482,
+				"label": "detector characterization",
+				"x": -0.4725,
+				"y": -0.5428,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3333,
+					"Avg. citations": 209.6667,
+					"Avg. norm. citations": 4.7200
+				}
+			},
+			{
+				"id": 495,
+				"label": "diffusion",
+				"x": 0.6295,
+				"y": -0.3653,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 37.5000,
+					"Avg. norm. citations": 0.7887
+				}
+			},
+			{
+				"id": 499,
+				"label": "digital holography",
+				"x": 0.5146,
+				"y": -0.3105,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.5000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.1191
+				}
+			},
+			{
+				"id": 512,
+				"label": "disorder",
+				"x": 0.6347,
+				"y": -0.6361,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3333,
+					"Avg. citations": 4.3333,
+					"Avg. norm. citations": 0.0874
+				}
+			},
+			{
+				"id": 513,
+				"label": "disordered media",
+				"x": 0.6386,
+				"y": -0.4763,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 14.5000,
+					"Avg. norm. citations": 0.2923
+				}
+			},
+			{
+				"id": 571,
+				"label": "electromagnetic counterparts",
+				"x": -0.6580,
+				"y": -0.5638,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 356.6667,
+					"Avg. norm. citations": 10.2893
+				}
+			},
+			{
+				"id": 612,
+				"label": "entanglement",
+				"x": -0.0481,
+				"y": -0.0473,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 18.0000,
+					"Avg. norm. citations": 0.4608
+				}
+			},
+			{
+				"id": 615,
+				"label": "entropy",
+				"x": -0.2818,
+				"y": 0.1407,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 42.7500,
+					"Avg. norm. citations": 1.2027
+				}
+			},
+			{
+				"id": 623,
+				"label": "equivalence principle",
+				"x": -0.8390,
+				"y": -0.3017,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 22.2857,
+					"Avg. norm. citations": 0.6627
+				}
+			},
+			{
+				"id": 638,
+				"label": "excitons",
+				"x": 0.4765,
+				"y": 0.3391,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.7500,
+					"Avg. citations": 34.5000,
+					"Avg. norm. citations": 0.6644
+				}
+			},
+			{
+				"id": 640,
+				"label": "exotic atom",
+				"x": 0.4117,
+				"y": 0.8563,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 19.0000,
+					"Avg. norm. citations": 0.3108
+				}
+			},
+			{
+				"id": 641,
+				"label": "exotic atoms",
+				"x": 0.3903,
+				"y": 1.0495,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.7692,
+					"Avg. citations": 15.1538,
+					"Avg. norm. citations": 0.2783
+				}
+			},
+			{
+				"id": 674,
+				"label": "fermi gases",
+				"x": -0.6012,
+				"y": 0.5112,
+				"cluster": 8,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 6.4286,
+					"Avg. norm. citations": 0.1239
+				}
+			},
+			{
+				"id": 675,
+				"label": "fermion systems",
+				"x": -0.4658,
+				"y": 0.2461,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 69.3333,
+					"Avg. norm. citations": 2.0296
+				}
+			},
+			{
+				"id": 696,
+				"label": "fine structure constant",
+				"x": -0.6063,
+				"y": -0.1733,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3333,
+					"Avg. citations": 9.6667,
+					"Avg. norm. citations": 0.2185
+				}
+			},
+			{
+				"id": 716,
+				"label": "fluorescence microscopy",
+				"x": 0.8649,
+				"y": 0.0237,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7500,
+					"Avg. citations": 15.0000,
+					"Avg. norm. citations": 0.3092
+				}
+			},
+			{
+				"id": 717,
+				"label": "fluorescence yields",
+				"x": 0.1988,
+				"y": 0.5737,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.1287
+				}
+			},
+			{
+				"id": 727,
+				"label": "four-wave mixing",
+				"x": 0.0266,
+				"y": 0.0792,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.3333,
+					"Avg. citations": 17.3333,
+					"Avg. norm. citations": 0.3806
+				}
+			},
+			{
+				"id": 751,
+				"label": "fundamental constants",
+				"x": -0.4518,
+				"y": 0.9241,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.0765
+				}
+			},
+			{
+				"id": 754,
+				"label": "fundamental physics",
+				"x": -1.1634,
+				"y": -0.3400,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.1000,
+					"Avg. citations": 35.9000,
+					"Avg. norm. citations": 0.9657
+				}
+			},
+			{
+				"id": 767,
+				"label": "gamma-ray burst: general",
+				"x": -0.6749,
+				"y": -0.9141,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2000,
+					"Avg. citations": 321.4000,
+					"Avg. norm. citations": 3.9085
+				}
+			},
+			{
+				"id": 779,
+				"label": "general relativity",
+				"x": -1.0697,
+				"y": -0.1974,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.8182,
+					"Avg. citations": 38.5455,
+					"Avg. norm. citations": 0.9553
+				}
+			},
+			{
+				"id": 795,
+				"label": "gravitation",
+				"x": -0.6311,
+				"y": -0.0074,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6667,
+					"Avg. citations": 32.8889,
+					"Avg. norm. citations": 1.1666
+				}
+			},
+			{
+				"id": 803,
+				"label": "gravitational redshift",
+				"x": -1.0395,
+				"y": -0.3609,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3333,
+					"Avg. citations": 69.0000,
+					"Avg. norm. citations": 1.9119
+				}
+			},
+			{
+				"id": 804,
+				"label": "gravitational wave",
+				"x": -0.1818,
+				"y": -0.6552,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 1.1919
+				}
+			},
+			{
+				"id": 805,
+				"label": "gravitational wave astronomy",
+				"x": -0.4534,
+				"y": -0.3971,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333,
+					"Avg. citations": 106.3333,
+					"Avg. norm. citations": 5.5403
+				}
+			},
+			{
+				"id": 808,
+				"label": "gravitational wave detectors",
+				"x": -0.5624,
+				"y": -0.4815,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 413.7500,
+					"Avg. norm. citations": 11.0611
+				}
+			},
+			{
+				"id": 810,
+				"label": "gravitational waves",
+				"x": -0.5392,
+				"y": -0.6970,
+				"cluster": 5,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 56.0000,
+					"Occurrences": 44.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7500,
+					"Avg. citations": 179.0455,
+					"Avg. norm. citations": 3.7062
+				}
+			},
+			{
+				"id": 813,
+				"label": "gravitational-wave detectors",
+				"x": -0.7487,
+				"y": -0.6460,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 276.5000,
+					"Avg. norm. citations": 7.9183
+				}
+			},
+			{
+				"id": 816,
+				"label": "gravity",
+				"x": -0.8185,
+				"y": 0.1250,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4000,
+					"Avg. citations": 28.4000,
+					"Avg. norm. citations": 0.7013
+				}
+			},
+			{
+				"id": 818,
+				"label": "gravity tests",
+				"x": -1.1555,
+				"y": -0.0455,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.7500,
+					"Avg. citations": 20.0000,
+					"Avg. norm. citations": 0.4967
+				}
+			},
+			{
+				"id": 819,
+				"label": "greater occipital nerve",
+				"x": 1.0050,
+				"y": -0.4547,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 8.8000,
+					"Avg. norm. citations": 0.1956
+				}
+			},
+			{
+				"id": 880,
+				"label": "highly charged ions",
+				"x": 0.2753,
+				"y": 0.7734,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.2222,
+					"Avg. citations": 5.7778,
+					"Avg. norm. citations": 0.1244
+				}
+			},
+			{
+				"id": 883,
+				"label": "highly-charged ions",
+				"x": 0.0967,
+				"y": 0.6602,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.6667,
+					"Avg. citations": 7.8333,
+					"Avg. norm. citations": 0.2314
+				}
+			},
+			{
+				"id": 901,
+				"label": "hydrogen spectroscopy",
+				"x": -0.3711,
+				"y": 0.9938,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 3.2500,
+					"Avg. norm. citations": 0.1070
+				}
+			},
+			{
+				"id": 911,
+				"label": "hyperfine structure",
+				"x": -0.2675,
+				"y": 0.5590,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.6667,
+					"Avg. citations": 27.3333,
+					"Avg. norm. citations": 0.5994
+				}
+			},
+			{
+				"id": 915,
+				"label": "hyperpolarized helium",
+				"x": 0.7402,
+				"y": -0.3575,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.6667,
+					"Avg. citations": 30.3333,
+					"Avg. norm. citations": 0.6219
+				}
+			},
+			{
+				"id": 917,
+				"label": "hyperspectral imaging",
+				"x": 0.7986,
+				"y": -0.1082,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 923,
+				"label": "iii-v semiconductors",
+				"x": 0.4093,
+				"y": 0.4407,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.2500,
+					"Avg. citations": 10.7500,
+					"Avg. norm. citations": 0.2173
+				}
+			},
+			{
+				"id": 937,
+				"label": "indium compounds",
+				"x": 0.3322,
+				"y": 0.3722,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 12.3333,
+					"Avg. norm. citations": 0.2313
+				}
+			},
+			{
+				"id": 942,
+				"label": "infiltration",
+				"x": 1.1841,
+				"y": -0.5722,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 24.0000,
+					"Avg. norm. citations": 0.5389
+				}
+			},
+			{
+				"id": 963,
+				"label": "interferometer",
+				"x": -0.2253,
+				"y": -0.5252,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3333,
+					"Avg. citations": 14.6667,
+					"Avg. norm. citations": 0.3423
+				}
+			},
+			{
+				"id": 965,
+				"label": "interferometry",
+				"x": -0.2304,
+				"y": -0.3649,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7500,
+					"Avg. citations": 67.5000,
+					"Avg. norm. citations": 1.7169
+				}
+			},
+			{
+				"id": 1015,
+				"label": "knee",
+				"x": 1.4278,
+				"y": -0.4734,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.6667,
+					"Avg. citations": 26.6667,
+					"Avg. norm. citations": 0.4958
+				}
+			},
+			{
+				"id": 1027,
+				"label": "lamb shift",
+				"x": -0.0496,
+				"y": 0.7160,
+				"cluster": 9,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.2500,
+					"Avg. citations": 23.1667,
+					"Avg. norm. citations": 0.6246
+				}
+			},
+			{
+				"id": 1040,
+				"label": "laser",
+				"x": 0.2788,
+				"y": 0.5034,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 7.6667,
+					"Avg. norm. citations": 0.1564
+				}
+			},
+			{
+				"id": 1044,
+				"label": "laser cooling",
+				"x": -0.4193,
+				"y": 0.0571,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.1429,
+					"Avg. citations": 49.1429,
+					"Avg. norm. citations": 0.7196
+				}
+			},
+			{
+				"id": 1052,
+				"label": "laser spectroscopy",
+				"x": -0.1617,
+				"y": 0.5640,
+				"cluster": 9,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5714,
+					"Avg. citations": 17.2857,
+					"Avg. norm. citations": 0.4222
+				}
+			},
+			{
+				"id": 1061,
+				"label": "lasers",
+				"x": 0.5739,
+				"y": 0.1061,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 75.3333,
+					"Avg. norm. citations": 1.9940
+				}
+			},
+			{
+				"id": 1078,
+				"label": "light scattering",
+				"x": 0.4446,
+				"y": -0.3350,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.7500,
+					"Avg. citations": 7.2500,
+					"Avg. norm. citations": 0.2618
+				}
+			},
+			{
+				"id": 1083,
+				"label": "ligo",
+				"x": -0.3845,
+				"y": -0.4869,
+				"cluster": 5,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2000,
+					"Avg. citations": 143.2000,
+					"Avg. norm. citations": 4.3960
+				}
+			},
+			{
+				"id": 1087,
+				"label": "line shapes, widths, and shifts",
+				"x": -0.1978,
+				"y": 0.4219,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1999.3333,
+					"Avg. citations": 46.0000,
+					"Avg. norm. citations": 0.9277
+				}
+			},
+			{
+				"id": 1096,
+				"label": "liquid helium",
+				"x": -0.9819,
+				"y": -0.0183,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.6000,
+					"Avg. citations": 9.6000,
+					"Avg. norm. citations": 0.1928
+				}
+			},
+			{
+				"id": 1105,
+				"label": "local anesthesia",
+				"x": 1.3363,
+				"y": -0.7502,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 0.3476
+				}
+			},
+			{
+				"id": 1115,
+				"label": "lorentz invariance",
+				"x": -0.9963,
+				"y": -0.5139,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.7500,
+					"Avg. citations": 23.2500,
+					"Avg. norm. citations": 0.6689
+				}
+			},
+			{
+				"id": 1136,
+				"label": "machine learning",
+				"x": 0.4483,
+				"y": -0.5188,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 18.6667,
+					"Avg. norm. citations": 0.2563
+				}
+			},
+			{
+				"id": 1162,
+				"label": "matter waves",
+				"x": -0.1983,
+				"y": 0.0022,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.4000,
+					"Avg. citations": 29.2000,
+					"Avg. norm. citations": 0.6079
+				}
+			},
+			{
+				"id": 1166,
+				"label": "mcdf",
+				"x": 0.3612,
+				"y": 0.7461,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 13.6667,
+					"Avg. norm. citations": 0.2624
+				}
+			},
+			{
+				"id": 1200,
+				"label": "methods: data analysis",
+				"x": -0.6759,
+				"y": -0.7852,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 63.2500,
+					"Avg. norm. citations": 1.2167
+				}
+			},
+			{
+				"id": 1202,
+				"label": "metrology",
+				"x": -0.1064,
+				"y": 0.3444,
+				"cluster": 9,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6000,
+					"Avg. citations": 11.2000,
+					"Avg. norm. citations": 0.2461
+				}
+			},
+			{
+				"id": 1209,
+				"label": "microcavities",
+				"x": 0.3692,
+				"y": 0.2381,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.5000,
+					"Avg. citations": 26.7500,
+					"Avg. norm. citations": 0.4521
+				}
+			},
+			{
+				"id": 1210,
+				"label": "microcavity",
+				"x": 0.6056,
+				"y": 0.2154,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 10.3333,
+					"Avg. norm. citations": 0.1661
+				}
+			},
+			{
+				"id": 1215,
+				"label": "microgravity",
+				"x": -0.8994,
+				"y": -0.1465,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.7500,
+					"Avg. citations": 31.2500,
+					"Avg. norm. citations": 0.4989
+				}
+			},
+			{
+				"id": 1217,
+				"label": "microlaser",
+				"x": 0.3650,
+				"y": 0.1114,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1999.0000,
+					"Avg. citations": 35.6667,
+					"Avg. norm. citations": 0.5566
+				}
+			},
+			{
+				"id": 1231,
+				"label": "microwave ablation",
+				"x": 1.2971,
+				"y": -0.6717,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.3076
+				}
+			},
+			{
+				"id": 1281,
+				"label": "mri",
+				"x": 0.8808,
+				"y": -0.3431,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.9000,
+					"Avg. citations": 5.7000,
+					"Avg. norm. citations": 0.1455
+				}
+			},
+			{
+				"id": 1297,
+				"label": "multiple scattering",
+				"x": 0.6027,
+				"y": -0.0922,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.6667,
+					"Avg. citations": 8.1667,
+					"Avg. norm. citations": 0.1512
+				}
+			},
+			{
+				"id": 1309,
+				"label": "muonic hydrogen",
+				"x": -0.1439,
+				"y": 0.8172,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.2857,
+					"Avg. citations": 21.7143,
+					"Avg. norm. citations": 0.5696
+				}
+			},
+			{
+				"id": 1312,
+				"label": "nanocrystals",
+				"x": 0.8050,
+				"y": 0.1889,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5000,
+					"Avg. citations": 15.2500,
+					"Avg. norm. citations": 0.4459
+				}
+			},
+			{
+				"id": 1332,
+				"label": "neodymium",
+				"x": 0.4879,
+				"y": 0.1877,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 15.2500,
+					"Avg. norm. citations": 0.2948
+				}
+			},
+			{
+				"id": 1336,
+				"label": "neuralgia",
+				"x": 0.8884,
+				"y": -0.4549,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 5.6667,
+					"Avg. norm. citations": 0.2166
+				}
+			},
+			{
+				"id": 1337,
+				"label": "neurolysis",
+				"x": 1.0913,
+				"y": -0.6931,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7500,
+					"Avg. citations": 20.5000,
+					"Avg. norm. citations": 0.6688
+				}
+			},
+			{
+				"id": 1345,
+				"label": "neutron stars",
+				"x": -0.3752,
+				"y": -0.5991,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 42.3333,
+					"Avg. norm. citations": 1.5512
+				}
+			},
+			{
+				"id": 1349,
+				"label": "nmr",
+				"x": 0.9394,
+				"y": -0.2677,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.2000,
+					"Avg. citations": 3.2000,
+					"Avg. norm. citations": 0.0585
+				}
+			},
+			{
+				"id": 1376,
+				"label": "nonlinear optics",
+				"x": -0.0635,
+				"y": 0.4526,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.1250,
+					"Avg. citations": 8.3750,
+					"Avg. norm. citations": 0.1877
+				}
+			},
+			{
+				"id": 1400,
+				"label": "occipital neuralgia",
+				"x": 1.1403,
+				"y": -0.4633,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3333,
+					"Avg. citations": 18.6667,
+					"Avg. norm. citations": 0.3938
+				}
+			},
+			{
+				"id": 1419,
+				"label": "optical computing",
+				"x": 0.4522,
+				"y": -0.4436,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6000,
+					"Avg. citations": 28.2000,
+					"Avg. norm. citations": 0.7424
+				}
+			},
+			{
+				"id": 1422,
+				"label": "optical cooling of atoms",
+				"x": -0.0820,
+				"y": -0.3728,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1991.2000,
+					"Avg. citations": 133.8000,
+					"Avg. norm. citations": 4.0667
+				}
+			},
+			{
+				"id": 1438,
+				"label": "optical lattices",
+				"x": -0.4184,
+				"y": 0.1582,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.6667,
+					"Avg. citations": 100.6667,
+					"Avg. norm. citations": 2.2420
+				}
+			},
+			{
+				"id": 1449,
+				"label": "optical parametric oscillator",
+				"x": 0.1558,
+				"y": -0.1723,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6000,
+					"Avg. citations": 37.8000,
+					"Avg. norm. citations": 0.8062
+				}
+			},
+			{
+				"id": 1453,
+				"label": "optical pumping",
+				"x": 0.2810,
+				"y": -0.2250,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.4000,
+					"Avg. citations": 13.8000,
+					"Avg. norm. citations": 0.2419
+				}
+			},
+			{
+				"id": 1469,
+				"label": "optomechanical coupling",
+				"x": 0.1591,
+				"y": -0.4386,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 0.3333,
+					"Avg. norm. citations": 0.0098
+				}
+			},
+			{
+				"id": 1470,
+				"label": "optomechanics",
+				"x": -1.0211,
+				"y": 0.0599,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.2773
+				}
+			},
+			{
+				"id": 1485,
+				"label": "pain",
+				"x": 1.3209,
+				"y": -0.4976,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2000,
+					"Avg. citations": 20.0000,
+					"Avg. norm. citations": 0.4699
+				}
+			},
+			{
+				"id": 1487,
+				"label": "pair condensate",
+				"x": -0.7325,
+				"y": 0.5496,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.7500,
+					"Avg. citations": 0.5000,
+					"Avg. norm. citations": 0.0182
+				}
+			},
+			{
+				"id": 1496,
+				"label": "parametric amplification",
+				"x": 0.2031,
+				"y": -0.0558,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 17.6667,
+					"Avg. norm. citations": 0.3884
+				}
+			},
+			{
+				"id": 1565,
+				"label": "photonic crystals",
+				"x": 0.1533,
+				"y": 0.4069,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 10.3333,
+					"Avg. norm. citations": 0.2052
+				}
+			},
+			{
+				"id": 1585,
+				"label": "pioneer anomaly",
+				"x": -1.2267,
+				"y": -0.1067,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.6667,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.4337
+				}
+			},
+			{
+				"id": 1616,
+				"label": "polaritons",
+				"x": 0.1846,
+				"y": 0.3116,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 14.7143,
+					"Avg. norm. citations": 0.3178
+				}
+			},
+			{
+				"id": 1619,
+				"label": "polarization",
+				"x": 0.2245,
+				"y": 0.4041,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 60.0000,
+					"Avg. norm. citations": 1.3084
+				}
+			},
+			{
+				"id": 1632,
+				"label": "position-sensitive detectors",
+				"x": 0.1895,
+				"y": 1.1149,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.3333,
+					"Avg. citations": 12.6667,
+					"Avg. norm. citations": 0.2959
+				}
+			},
+			{
+				"id": 1661,
+				"label": "proton radius",
+				"x": -0.2507,
+				"y": 0.9309,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.4444,
+					"Avg. citations": 7.5556,
+					"Avg. norm. citations": 0.1225
+				}
+			},
+			{
+				"id": 1662,
+				"label": "proton radius puzzle",
+				"x": -0.2254,
+				"y": 0.7186,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.3333,
+					"Avg. citations": 38.6667,
+					"Avg. norm. citations": 1.0952
+				}
+			},
+			{
+				"id": 1667,
+				"label": "pulsars: general",
+				"x": -0.3827,
+				"y": -0.7159,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6667,
+					"Avg. citations": 81.0000,
+					"Avg. norm. citations": 1.6488
+				}
+			},
+			{
+				"id": 1674,
+				"label": "qed",
+				"x": 0.0635,
+				"y": 0.9088,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.1667,
+					"Avg. citations": 26.8333,
+					"Avg. norm. citations": 0.7676
+				}
+			},
+			{
+				"id": 1694,
+				"label": "quantum communication",
+				"x": -0.1479,
+				"y": -0.1230,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 8.3333,
+					"Avg. norm. citations": 0.3161
+				}
+			},
+			{
+				"id": 1698,
+				"label": "quantum cryptography",
+				"x": 0.7048,
+				"y": 0.4238,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.6667,
+					"Avg. citations": 21.6667,
+					"Avg. norm. citations": 0.4365
+				}
+			},
+			{
+				"id": 1703,
+				"label": "quantum dots",
+				"x": 0.7433,
+				"y": 0.2856,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.2308,
+					"Avg. citations": 17.5385,
+					"Avg. norm. citations": 0.4250
+				}
+			},
+			{
+				"id": 1704,
+				"label": "quantum electrodynamics",
+				"x": 0.0796,
+				"y": 0.5270,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.4545,
+					"Avg. citations": 10.3636,
+					"Avg. norm. citations": 0.2961
+				}
+			},
+			{
+				"id": 1706,
+				"label": "quantum entanglement",
+				"x": -0.0249,
+				"y": 0.1920,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 5.3333,
+					"Avg. norm. citations": 0.0763
+				}
+			},
+			{
+				"id": 1713,
+				"label": "quantum fluctuations",
+				"x": 0.0801,
+				"y": -0.1007,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.1429,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 0.1778
+				}
+			},
+			{
+				"id": 1716,
+				"label": "quantum fluids",
+				"x": -0.4800,
+				"y": 0.4784,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.6667,
+					"Avg. citations": 4.6667,
+					"Avg. norm. citations": 0.0488
+				}
+			},
+			{
+				"id": 1717,
+				"label": "quantum fluids of light",
+				"x": 0.0358,
+				"y": 0.3028,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.1758
+				}
+			},
+			{
+				"id": 1718,
+				"label": "quantum gases",
+				"x": -0.3566,
+				"y": 0.4395,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 16.6667,
+					"Avg. norm. citations": 0.4501
+				}
+			},
+			{
+				"id": 1723,
+				"label": "quantum information",
+				"x": -0.0820,
+				"y": 0.0828,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.8889,
+					"Avg. citations": 7.6667,
+					"Avg. norm. citations": 0.2312
+				}
+			},
+			{
+				"id": 1734,
+				"label": "quantum measurement",
+				"x": -0.4609,
+				"y": -0.2896,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0498
+				}
+			},
+			{
+				"id": 1735,
+				"label": "quantum mechanics",
+				"x": -0.1759,
+				"y": -0.2274,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 14.2000,
+					"Avg. norm. citations": 0.4529
+				}
+			},
+			{
+				"id": 1742,
+				"label": "quantum noise",
+				"x": 0.2973,
+				"y": -0.1088,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 14.4286,
+					"Avg. norm. citations": 0.2484
+				}
+			},
+			{
+				"id": 1750,
+				"label": "quantum optics",
+				"x": 0.0154,
+				"y": -0.2385,
+				"cluster": 2,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 39.0000,
+					"Occurrences": 28.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.2857,
+					"Avg. citations": 31.6429,
+					"Avg. norm. citations": 0.8988
+				}
+			},
+			{
+				"id": 1758,
+				"label": "quantum physics",
+				"x": 0.0590,
+				"y": 0.4233,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 20.6667,
+					"Avg. norm. citations": 0.2681
+				}
+			},
+			{
+				"id": 1760,
+				"label": "quantum reflection",
+				"x": -0.8831,
+				"y": -0.0250,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.0873
+				}
+			},
+			{
+				"id": 1775,
+				"label": "quantum theory",
+				"x": -0.2420,
+				"y": -0.0824,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.2000,
+					"Avg. citations": 33.8000,
+					"Avg. norm. citations": 0.9475
+				}
+			},
+			{
+				"id": 1796,
+				"label": "radiation pressure",
+				"x": 0.1742,
+				"y": -0.3002,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.1429,
+					"Avg. citations": 8.4286,
+					"Avg. norm. citations": 0.2280
+				}
+			},
+			{
+				"id": 1804,
+				"label": "radiofrequency",
+				"x": 1.0576,
+				"y": -0.5893,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.2500,
+					"Avg. citations": 23.7500,
+					"Avg. norm. citations": 0.7692
+				}
+			},
+			{
+				"id": 1831,
+				"label": "rehabilitation",
+				"x": 1.3697,
+				"y": -0.4104,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.3333,
+					"Avg. citations": 29.3333,
+					"Avg. norm. citations": 0.7359
+				}
+			},
+			{
+				"id": 1840,
+				"label": "relativity",
+				"x": -0.2774,
+				"y": -0.1824,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 47.6667,
+					"Avg. norm. citations": 1.0227
+				}
+			},
+			{
+				"id": 1869,
+				"label": "rydberg atoms",
+				"x": -0.4228,
+				"y": -0.2195,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.7500,
+					"Avg. citations": 33.0000,
+					"Avg. norm. citations": 0.7327
+				}
+			},
+			{
+				"id": 1870,
+				"label": "rydberg constant",
+				"x": -0.3439,
+				"y": 0.8338,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000,
+					"Avg. citations": 6.7500,
+					"Avg. norm. citations": 0.1260
+				}
+			},
+			{
+				"id": 1918,
+				"label": "semiconductor microcavities",
+				"x": 0.0965,
+				"y": 0.1840,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 22.3333,
+					"Avg. norm. citations": 0.5500
+				}
+			},
+			{
+				"id": 1965,
+				"label": "single-photon sources",
+				"x": 0.9038,
+				"y": 0.1304,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 0.5874
+				}
+			},
+			{
+				"id": 1985,
+				"label": "space mission",
+				"x": -0.9260,
+				"y": -0.4035,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7500,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.3746
+				}
+			},
+			{
+				"id": 1998,
+				"label": "speckle",
+				"x": 0.6966,
+				"y": -0.1625,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 2004,
+				"label": "spectroscopy",
+				"x": 0.2825,
+				"y": 0.0216,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.3333,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 0.3045
+				}
+			},
+			{
+				"id": 2031,
+				"label": "squeezing",
+				"x": 0.1389,
+				"y": 0.0463,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.8750,
+					"Avg. citations": 26.5000,
+					"Avg. norm. citations": 0.5318
+				}
+			},
+			{
+				"id": 2035,
+				"label": "standard quantum limit",
+				"x": 0.2569,
+				"y": -0.4015,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 0.3333,
+					"Avg. norm. citations": 0.0098
+				}
+			},
+			{
+				"id": 2037,
+				"label": "stars: black holes",
+				"x": -0.3833,
+				"y": -0.8330,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2500,
+					"Avg. citations": 373.0000,
+					"Avg. norm. citations": 3.8022
+				}
+			},
+			{
+				"id": 2041,
+				"label": "stars: neutron",
+				"x": -0.5323,
+				"y": -0.8627,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 81.0000,
+					"Avg. norm. citations": 1.2807
+				}
+			},
+			{
+				"id": 2065,
+				"label": "storage ring",
+				"x": 0.1707,
+				"y": 0.8641,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.1539
+				}
+			},
+			{
+				"id": 2066,
+				"label": "storage rings",
+				"x": 0.1367,
+				"y": 0.7528,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.7500,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 0.3216
+				}
+			},
+			{
+				"id": 2073,
+				"label": "strong interaction",
+				"x": 0.3461,
+				"y": 1.1547,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2000.3333,
+					"Avg. citations": 26.0000,
+					"Avg. norm. citations": 0.3964
+				}
+			},
+			{
+				"id": 2102,
+				"label": "superfluidity",
+				"x": -0.3965,
+				"y": 0.3511,
+				"cluster": 8,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7143,
+					"Avg. citations": 11.4286,
+					"Avg. norm. citations": 0.2835
+				}
+			},
+			{
+				"id": 2108,
+				"label": "surface plasmons",
+				"x": -0.2565,
+				"y": 0.2779,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 6.3333,
+					"Avg. norm. citations": 0.1093
+				}
+			},
+			{
+				"id": 2206,
+				"label": "trapping",
+				"x": 0.0153,
+				"y": -0.4153,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1991.2000,
+					"Avg. citations": 133.8000,
+					"Avg. norm. citations": 4.0667
+				}
+			},
+			{
+				"id": 2241,
+				"label": "ultracold atoms",
+				"x": -0.5929,
+				"y": 0.3637,
+				"cluster": 8,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2143,
+					"Avg. citations": 54.9286,
+					"Avg. norm. citations": 1.1715
+				}
+			},
+			{
+				"id": 2282,
+				"label": "vertebroplasty",
+				"x": 1.3780,
+				"y": -0.6359,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 8.3333,
+					"Avg. norm. citations": 0.1390
+				}
+			},
+			{
+				"id": 2287,
+				"label": "virgo",
+				"x": -0.0749,
+				"y": -0.6741,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 20.6000,
+					"Avg. norm. citations": 1.1280
+				}
+			},
+			{
+				"id": 2305,
+				"label": "wavefront shaping",
+				"x": 0.6431,
+				"y": -0.5612,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2500,
+					"Avg. citations": 3.7500,
+					"Avg. norm. citations": 0.1076
+				}
+			},
+			{
+				"id": 2312,
+				"label": "whispering-gallery modes",
+				"x": 0.4520,
+				"y": 0.0845,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1998.3333,
+					"Avg. citations": 31.3333,
+					"Avg. norm. citations": 0.5523
+				}
+			},
+			{
+				"id": 2322,
+				"label": "x-ray detectors",
+				"x": 0.3456,
+				"y": 0.0033,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0382
+				}
+			},
+			{
+				"id": 2324,
+				"label": "x-ray optics",
+				"x": 0.1201,
+				"y": 1.0342,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.3333,
+					"Avg. citations": 17.3333,
+					"Avg. norm. citations": 0.4164
+				}
+			},
+			{
+				"id": 2329,
+				"label": "x-ray spectroscopy",
+				"x": 0.2673,
+				"y": 0.9776,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.2000,
+					"Avg. citations": 14.4500,
+					"Avg. norm. citations": 0.3323
+				}
+			},
+			{
+				"id": 2330,
+				"label": "x-rays",
+				"x": 0.2321,
+				"y": 0.6480,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 3.6000,
+					"Avg. norm. citations": 0.1027
+				}
+			},
+			{
+				"id": 2333,
+				"label": "xenon",
+				"x": 0.3601,
+				"y": 0.6079,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.7500,
+					"Avg. citations": 18.5000,
+					"Avg. norm. citations": 0.4043
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 103,
+				"target_id": 104,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 795,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 816,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1096,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1760,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 795,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 816,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 188,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 236,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 623,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 696,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 754,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 754,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 803,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 1052,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 1115,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 458,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 779,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 354,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 674,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 1487,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 2241,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 1760,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 754,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 767,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 810,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 2041,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 767,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 810,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 2037,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 2041,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 810,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 1717,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1312,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1703,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1965,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 465,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 2241,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 1162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 1735,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 615,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1044,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1438,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1775,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1796,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 274,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 495,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 615,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1078,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 266,
+				"target_id": 274,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 266,
+				"target_id": 804,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 266,
+				"target_id": 963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 266,
+				"target_id": 1735,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 266,
+				"target_id": 2287,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 274,
+				"target_id": 615,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 274,
+				"target_id": 1704,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 274,
+				"target_id": 2108,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 795,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 2108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 1734,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 1869,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 612,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1210,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1217,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 1869,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 2312,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 612,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 810,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 816,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 354,
+				"target_id": 674,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 354,
+				"target_id": 1487,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 354,
+				"target_id": 2241,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 1210,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 1698,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 1703,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 360,
+				"target_id": 638,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 360,
+				"target_id": 1698,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 360,
+				"target_id": 1703,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 380,
+				"target_id": 716,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 380,
+				"target_id": 917,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 380,
+				"target_id": 1297,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 380,
+				"target_id": 1998,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 407,
+				"target_id": 1040,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 407,
+				"target_id": 1202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 407,
+				"target_id": 1297,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 407,
+				"target_id": 1453,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 437,
+				"target_id": 640,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 437,
+				"target_id": 641,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 437,
+				"target_id": 2329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 942,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 1105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 1231,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 1337,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 1804,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 2282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 571,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 808,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 810,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 813,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 612,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 482,
+				"target_id": 810,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 482,
+				"target_id": 1083,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 495,
+				"target_id": 513,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 495,
+				"target_id": 915,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 499,
+				"target_id": 1078,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 512,
+				"target_id": 2305,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 513,
+				"target_id": 2305,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 810,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 813,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 727,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1449,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1694,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1713,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1735,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 1840,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 612,
+				"target_id": 2031,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 615,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 615,
+				"target_id": 1438,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 615,
+				"target_id": 1796,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 754,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 779,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 803,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 1115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 1713,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 623,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 923,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 1209,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 1698,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 1742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 638,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 640,
+				"target_id": 2329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 880,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 2073,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 2329,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 674,
+				"target_id": 1487,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 674,
+				"target_id": 1716,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 674,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 674,
+				"target_id": 2241,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1438,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 716,
+				"target_id": 917,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 716,
+				"target_id": 1965,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 717,
+				"target_id": 2330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 727,
+				"target_id": 1496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 727,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 727,
+				"target_id": 1918,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 727,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 751,
+				"target_id": 901,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 751,
+				"target_id": 1661,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 751,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 754,
+				"target_id": 779,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 754,
+				"target_id": 803,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 754,
+				"target_id": 1985,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 767,
+				"target_id": 810,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 767,
+				"target_id": 2037,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 767,
+				"target_id": 2041,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 803,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 818,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 1096,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 1115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 1215,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 1585,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 779,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 795,
+				"target_id": 805,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 795,
+				"target_id": 1083,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 795,
+				"target_id": 1840,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 803,
+				"target_id": 1115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 803,
+				"target_id": 1985,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 2287,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 805,
+				"target_id": 1083,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 805,
+				"target_id": 1345,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 808,
+				"target_id": 810,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 808,
+				"target_id": 963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 813,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 816,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 965,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 1083,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 1200,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 1345,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 1667,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 2037,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 810,
+				"target_id": 2041,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 965,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 818,
+				"target_id": 1585,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 942,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 1281,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 1336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 1337,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 1400,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 819,
+				"target_id": 1804,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 880,
+				"target_id": 1027,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 880,
+				"target_id": 1166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 880,
+				"target_id": 1704,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 880,
+				"target_id": 2329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 883,
+				"target_id": 1027,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 883,
+				"target_id": 1704,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 883,
+				"target_id": 2066,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 883,
+				"target_id": 2330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 901,
+				"target_id": 1661,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 901,
+				"target_id": 1870,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 911,
+				"target_id": 1052,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 915,
+				"target_id": 1281,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 917,
+				"target_id": 1297,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 917,
+				"target_id": 1998,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 923,
+				"target_id": 937,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 923,
+				"target_id": 1209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 923,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 942,
+				"target_id": 1337,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 942,
+				"target_id": 1400,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 942,
+				"target_id": 1485,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 942,
+				"target_id": 1804,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 963,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 963,
+				"target_id": 2287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 1061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 1202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1015,
+				"target_id": 1485,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1015,
+				"target_id": 1831,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1052,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1309,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1661,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1674,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1027,
+				"target_id": 1704,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1040,
+				"target_id": 1202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1040,
+				"target_id": 1332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1040,
+				"target_id": 2330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1040,
+				"target_id": 2333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1044,
+				"target_id": 1297,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1044,
+				"target_id": 1438,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1044,
+				"target_id": 2241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1052,
+				"target_id": 1087,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1052,
+				"target_id": 1202,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1052,
+				"target_id": 1309,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1052,
+				"target_id": 1376,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1052,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1210,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1703,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1078,
+				"target_id": 1419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1083,
+				"target_id": 1345,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1083,
+				"target_id": 2287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1087,
+				"target_id": 1202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1087,
+				"target_id": 1376,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1087,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1096,
+				"target_id": 1215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1096,
+				"target_id": 1470,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1096,
+				"target_id": 1760,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1105,
+				"target_id": 1231,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1105,
+				"target_id": 2282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1136,
+				"target_id": 1419,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1162,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1162,
+				"target_id": 1758,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1162,
+				"target_id": 1775,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1200,
+				"target_id": 2041,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1202,
+				"target_id": 1376,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1202,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1202,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 1217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 1332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 1742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1209,
+				"target_id": 2312,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1210,
+				"target_id": 1217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1210,
+				"target_id": 1332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1210,
+				"target_id": 1703,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1217,
+				"target_id": 2312,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1281,
+				"target_id": 1336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1281,
+				"target_id": 1349,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1281,
+				"target_id": 2333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1297,
+				"target_id": 1998,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1309,
+				"target_id": 1661,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1309,
+				"target_id": 1662,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1309,
+				"target_id": 1674,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1309,
+				"target_id": 1870,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1312,
+				"target_id": 1698,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1312,
+				"target_id": 1703,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1312,
+				"target_id": 1965,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1332,
+				"target_id": 2312,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1337,
+				"target_id": 1400,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1337,
+				"target_id": 1804,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1376,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1376,
+				"target_id": 1717,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1376,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1400,
+				"target_id": 1485,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1400,
+				"target_id": 1804,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1422,
+				"target_id": 1750,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1422,
+				"target_id": 2206,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1438,
+				"target_id": 2241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1449,
+				"target_id": 1713,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1449,
+				"target_id": 1750,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1453,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1469,
+				"target_id": 1750,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1469,
+				"target_id": 1796,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1469,
+				"target_id": 2035,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1485,
+				"target_id": 1831,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1485,
+				"target_id": 2282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1487,
+				"target_id": 2241,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1496,
+				"target_id": 1742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1496,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1496,
+				"target_id": 1918,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1496,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1565,
+				"target_id": 1616,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1616,
+				"target_id": 1619,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1616,
+				"target_id": 1717,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1616,
+				"target_id": 1918,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1616,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1632,
+				"target_id": 1674,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1632,
+				"target_id": 2324,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1632,
+				"target_id": 2329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1661,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1661,
+				"target_id": 1870,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1662,
+				"target_id": 1674,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1662,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1667,
+				"target_id": 2041,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1674,
+				"target_id": 2065,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1674,
+				"target_id": 2066,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1674,
+				"target_id": 2324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1674,
+				"target_id": 2329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 1735,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 1840,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1698,
+				"target_id": 1703,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1703,
+				"target_id": 1965,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1704,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1704,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1704,
+				"target_id": 1758,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1723,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1713,
+				"target_id": 1742,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1713,
+				"target_id": 1750,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1716,
+				"target_id": 2241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1717,
+				"target_id": 1918,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1717,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1718,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1723,
+				"target_id": 1750,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1734,
+				"target_id": 1869,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1735,
+				"target_id": 1750,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1735,
+				"target_id": 1775,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1735,
+				"target_id": 1840,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 1796,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 1775,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 1796,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 2035,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 2206,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1796,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1796,
+				"target_id": 2035,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1918,
+				"target_id": 2031,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1918,
+				"target_id": 2102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2004,
+				"target_id": 2031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2004,
+				"target_id": 2322,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2037,
+				"target_id": 2041,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2065,
+				"target_id": 2324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2065,
+				"target_id": 2329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2065,
+				"target_id": 2330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2066,
+				"target_id": 2329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2066,
+				"target_id": 2330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2073,
+				"target_id": 2329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2102,
+				"target_id": 2241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2324,
+				"target_id": 2329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2329,
+				"target_id": 2333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2330,
+				"target_id": 2333,
+				"strength": 1.0000
+			}
+		]
+	}
+}
