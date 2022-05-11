@@ -8740,7 +8740,8 @@
 				"item_color": 1,
 				"curved_links": true,
 				"dark_ui": true,
-				"show_info": false
+				"show_info": false,
+				"max_n_links" : 700
 			}
 		}
 }
