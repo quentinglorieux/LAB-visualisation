@@ -4379,7 +4379,9 @@
 				"curved_links": true,
 				"dark_ui": true,
 				"show_info": false,
-				"max_n_links" : 700
+				"max_n_links" : 700,
+				"scale": 1.3,
+				"label_size_variation": 0.7
 			}
 		}
 }
