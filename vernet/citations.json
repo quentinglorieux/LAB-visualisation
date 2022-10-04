@@ -802,7 +802,7 @@
 			{
 				"id": 43,
 				"label": "edwin m. robertson",
-				"x": 0.4977,
+				"x": 0.5877,
 				"y": -0.3913,
 				"cluster": 1,
 				"weights": {
@@ -2494,7 +2494,7 @@
 				"id": 132,
 				"label": "shahid bashir",
 				"x": 0.4939,
-				"y": -0.3382,
+				"y": -0.3582,
 				"cluster": 1,
 				"weights": {
 					"Links": 34.0000,
